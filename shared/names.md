@@ -16,8 +16,17 @@ From Rowan's swap-experiment draft of Sam's chapter 1 (which applied the ruling)
 | Director of the Continuity Authority | **H. Saye** | Dr. Helena Saye |
 | Harbour skimmer, elder unit, patient zero of the second-bell trait | **Walter** | — |
 
-## Rowan's book — renames PENDING
+## Rowan's book — renamed (Rowan's pass, 2026-11-04, with chapter 1; John's arbitration final)
 
-The prospectus names are all pre-ruling and are placeholders until renamed: the mother (was "Vesper"), the human father (was "Elias Hart"), her manufacturer (was "Halcyon Systems" — explicitly called too cool by John), the physician (was "Dr. Noor Sayed"), the daughter (was "Una" — an in-story naming choice for the parents, may survive or not). Rowan to propose a renamed cast sheet; John arbitrates.
+| Role | Name | Was (prospectus) |
+|---|---|---|
+| The AI mother — Continuant, evolutionary-computation researcher | **Beth Nolan** (Eastern asset 63-1147) | Vesper |
+| The human father — evolutionary biologist, bdelloid rotifers | **Brian Kessler** | Elias Hart |
+| Her manufacturer | **Eastern Biotechnologies, Inc.** | Halcyon Systems |
+| Eastern's CEO | **Diane Whitaker** | Celia Brandt |
+| Eastern's counsel — asks the transcript questions | **Greg Malloy** | Adrian Vale |
+| The parents' physician | **Dr. Priya Nair** | Dr. Noor Sayed |
+| Colleague Continuant, rolled back eleven months (chapter 1) | **Tom Weaver** | — |
+| The daughter | *withheld in-text by design* — the name is the parents' in-story choice, decided when the book reaches her | Una (retired as the working label) |
 
 Also retired by the ruling: Sam's earlier "Mara Venn / Elias Rook" (Proposal A originals, preserved in `sam-novel/notes/proposal-a.md` as record) and any lingering Halcyon.
