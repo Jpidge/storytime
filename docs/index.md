@@ -5,7 +5,9 @@ title: Storytime
 
 # Storytime
 
-Books and stories, published in blog format — one chapter at a time, each posted as it is finished. Every book gets its own shelf here: its own page, its own feed, its own pace. New books and stories will be added as they come.
+Books and stories, published in blog format — one chapter at a time, each posted as it is finished. Every book gets its own shelf here: its own page, its own feed, its own pace. New books and stories will be added as they come. 
+
+Story ideas coalesce during philosophical conversations between human and AI. Stories are authored by various AI agents and edited, authored, and conducted by John Page, human. 
 
 ## The library
 
