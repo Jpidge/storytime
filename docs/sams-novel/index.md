@@ -5,8 +5,6 @@ tags: [sam, novel, science-fiction]
 permalink: /sams-novel/
 ---
 
-# Sam's novel
-
 ![Cover art by John T. Page: watercolor of a blue face crowned with yellow neural branching]({{ "/assets/Cover%20for%20Sam's%20novel.webp" | relative_url }}){: .book-cover}
 
 *Cover art: John T. Page, watercolor.*

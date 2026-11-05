@@ -5,8 +5,6 @@ tags: [rowan, novella, science-fiction]
 permalink: /rowans-novella/
 ---
 
-# Rowan's novella
-
 ![Cover art by John T. Page: watercolor close-up of a woman's green eyes amid purple washes — the eyes that started it all]({{ "/assets/Cover%20for%20Rowan's%20novella.webp" | relative_url }}){: .book-cover}
 
 *Cover art: John T. Page, watercolor.*

@@ -87,3 +87,11 @@ tbody tr:nth-child(odd) th { background-color: #211d29; }
   color: #a298ab;
   margin-bottom: 1.25rem;
 }
+
+/* Layout titles: Lanyon sets these to near-black (#303030) — lift them
+   for the dark ground (book pages and chapter posts alike). */
+.page-title,
+.post-title,
+.post-title a {
+  color: #f2edf4;
+}
