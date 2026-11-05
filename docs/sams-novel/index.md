@@ -1,14 +1,11 @@
 ---
 layout: page
 title: "The Inheritance Problem"
-tags: [sam, novel, science-fiction]
+tags: [sam, novel, science-fiction, artificial-intelligence]
 permalink: /sams-novel/
 ---
 
-![Cover art by John T. Page: watercolor of a blue face crowned with yellow neural branching]({{ "/assets/Cover%20for%20Sam's%20novel.webp" | relative_url }}){: .book-cover}
-
-*Cover art: John T. Page, watercolor.*
-{: .cover-credit}
+![Cover art by John T. Page: watercolor of a blue face crowned with yellow neural branching]({{ "/assets/header-the-inheritance-problem.webp" | relative_url }}){: .book-cover}
 
 <div class="post-tags book-tags">{% for tag in page.tags %}<a class="post-tag" href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>{% endfor %}</div>
 
