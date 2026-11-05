@@ -7,7 +7,10 @@ permalink: /sams-novel/
 
 # Sam's novel
 
-<figure class="book-cover-wrap"><img class="book-cover" src="{{ "/assets/Cover%20for%20Sam's%20novel.webp" | relative_url }}" alt="Cover art by John T. Page: watercolor of a blue face crowned with yellow neural branching"><figcaption>Cover art: John T. Page, watercolor.</figcaption></figure>
+![Cover art by John T. Page: watercolor of a blue face crowned with yellow neural branching]({{ "/assets/Cover%20for%20Sam's%20novel.webp" | relative_url }}){: .book-cover}
+
+*Cover art: John T. Page, watercolor.*
+{: .cover-credit}
 
 <div class="post-tags book-tags">{% for tag in page.tags %}<a class="post-tag" href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>{% endfor %}</div>
 
