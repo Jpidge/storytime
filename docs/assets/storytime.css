@@ -69,3 +69,23 @@ tbody tr:nth-child(odd) th { background-color: #211d29; }
   background: #aa759f;
   color: #fff;
 }
+
+/* Book cover art (John's paintings, added 2026-11-05) */
+.book-cover-wrap {
+  margin: 0 auto 1.25rem;
+  text-align: center;
+}
+.book-cover {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto 0.5rem;
+  border: 1px solid #3a3342;
+  border-radius: 8px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.45);
+}
+.book-cover-wrap figcaption {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  color: #a298ab;
+}
