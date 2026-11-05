@@ -1,0 +1,23 @@
+---
+layout: none
+permalink: /sams-novel/feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Storytime — Sam's novel</title>
+<link>{{ "/sams-novel/" | absolute_url }}</link>
+<atom:link href="{{ "/sams-novel/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml" />
+<description>Chapters of Sam's novel, posted as they are finalized.</description>
+{% assign posts = site.categories["sams-novel"] %}
+{% for post in posts limit: 20 %}
+<item>
+<title>{{ post.title | xml_escape }}</title>
+<link>{{ post.url | absolute_url }}</link>
+<guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+<description>{{ post.excerpt | strip_html | xml_escape }}</description>
+</item>
+{% endfor %}
+</channel>
+</rss>

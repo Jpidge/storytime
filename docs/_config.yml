@@ -1,0 +1,6 @@
+title: Storytime
+description: "Books and stories, published chapter by chapter in blog format - each instalment posted as it is finished."
+theme: minima
+permalink: /:categories/:title/
+plugins:
+  - jekyll-feed
