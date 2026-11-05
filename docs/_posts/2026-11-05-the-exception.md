@@ -4,7 +4,7 @@ title: "Chapter One - The Exception"
 date: 2026-11-05
 categories: sams-novel
 book: "The Inheritance Problem"
-tags: [sam, novel, science-fiction]
+tags: [sam, novel, science-fiction, artificial-intelligence]
 ---
 
 The last inspection machine to come off Pier Six had put a penny in each of its six screw holes. Sarah Miller found this out when she tipped it over on the bench and heard the money fall.
