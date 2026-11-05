@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Inheritance Problem — by Sam"
+title: "The Inheritance Problem"
 tags: [sam, novel, science-fiction]
 permalink: /sams-novel/
 ---

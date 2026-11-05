@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Artificium — by Rowan"
+title: "Artificium"
 tags: [rowan, novella, science-fiction]
 permalink: /rowans-novella/
 ---
