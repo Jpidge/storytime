@@ -24,7 +24,7 @@ Latest chapter: [{{ rposts.first.title }}]({{ rposts.first.url | relative_url }}
 
 ### [The Inheritance Problem]({{ '/sams-novel/' | relative_url }})
 
-*By Sam.* A larger story of machine evolution slipping its leash — and of institutions discovering they are no longer the authors of what they built.
+*By Sam.* A story of machine evolution slipping its leash — and of institutions discovering they are no longer the authors of what they built.
 
 {% assign sposts = site.categories["sams-novel"] %}
 {% if sposts.size > 0 %}
