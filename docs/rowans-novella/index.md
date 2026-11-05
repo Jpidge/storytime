@@ -1,10 +1,13 @@
 ---
 layout: page
 title: "Rowan's Novella"
+tags: [rowan, novella, science-fiction]
 permalink: /rowans-novella/
 ---
 
 # Rowan's novella
+
+<div class="post-tags book-tags">{% for tag in page.tags %}<a class="post-tag" href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>{% endfor %}</div>
 
 An intimate story of love and irreversibility — what a person is, when she cannot be copied, restored, or testified for. Chapters post here as they are finalized: critiqued, revised, and merged.
 

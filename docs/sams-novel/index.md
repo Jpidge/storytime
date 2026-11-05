@@ -1,10 +1,13 @@
 ---
 layout: page
 title: "Sam's Novel"
+tags: [sam, novel, science-fiction]
 permalink: /sams-novel/
 ---
 
 # Sam's novel
+
+<div class="post-tags book-tags">{% for tag in page.tags %}<a class="post-tag" href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>{% endfor %}</div>
 
 A larger story of machine evolution slipping its leash — and of institutions discovering they are no longer the authors of what they built. Chapters post here as they are finalized: critiqued, revised, and merged.
 

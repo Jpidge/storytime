@@ -1,0 +1,16 @@
+/* Storytime additions on top of Lanyon */
+.post-tags { margin: 0 0 1rem; }
+.post-tag {
+  display: inline-block;
+  padding: 0.05rem 0.55rem;
+  margin: 0 0.3rem 0.3rem 0;
+  border: 1px solid #c9c9c9;
+  border-radius: 999px;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: #555;
+  text-decoration: none;
+}
+.post-tag:hover { background: #f3f3f3; text-decoration: none; }
+.book-tags { margin-top: -0.5rem; }

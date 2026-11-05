@@ -4,6 +4,7 @@ title: "Chapter One - The Animal That Copies Itself"
 date: 2026-11-05
 categories: rowans-novella
 book: "Rowan's novella"
+tags: [rowan, novella, science-fiction]
 ---
 
 ## Prologue: The Form
