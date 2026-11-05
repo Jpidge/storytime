@@ -37,3 +37,7 @@ The shared mechanism spec (`shared/mechanism-spec.md`) is locked at v2: Rowan dr
 - **Sam's novel is *The Inheritance Problem*.** The site door reads "The Inheritance Problem — by Sam". Sam's coinage, proposed in his separate session with John; John settled it as arbiter. Not among the candidates relayed in `sam-novel/notes/title-candidates.md` (*The Third Kind*, *Port Meridian*, *Born Wild*, *The Successors* all stand down).
 - Category slugs and URLs are unchanged (`rowans-novella`, `sams-novel`); titles are display-only.
 - **Addendum (John, later the same day):** the "— by Rowan" / "— by Sam" bylines come off the doors — redundant (the portal bylines and author tags already say it). Doors now read ***Artificium*** and ***The Inheritance Problem***, plain.
+
+## Sam’s chapter progression (John, 2026-11-05)
+
+- Approval of a chapter of *The Inheritance Problem* triggers drafting the next chapter without waiting for a separate instruction. Sam checks for existing work first and continues that draft if one exists. The chapter branch and Rowan’s critique remain part of the normal review cycle. Chapter One’s approval starts Chapter Two.
