@@ -30,6 +30,7 @@ Whatever direction the books take, these survive:
 - What the child inherits: a developmental regulatory system derived from the structure of the mother's mind — not memories, not personality, not a downloaded consciousness. (Full mechanism spec lives in `shared/mechanism-spec.md`; to be locked before any conception scene is drafted.)
 - **Names come down to earth** (John's standing direction): more Brians and Daves; no Deluxe Science Fiction Naming Package. Companies get bland real-world names (Sam's example: Midwest Information Services). One rationed self-chosen machine pun name at most (see: Andor).
 - If a book kills the mother, she dies really — no apparent death, no posthumous message, no refunds. (Her fate in Rowan's book is open; devastation is explicitly on the table.)
+- **No cross-contamination** (John's ruling, 2026-11-04): the two books share the constitution and nothing below it — no borrowed names, plot points, set pieces, or twists from each other's stories. The prospectus-round adoptions are withdrawn; each book stands on its own author's architecture. Critique flows freely; furniture doesn't move.
 
 ## Documents
 
