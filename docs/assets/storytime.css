@@ -74,7 +74,7 @@ tbody tr:nth-child(odd) th { background-color: #211d29; }
 .book-cover {
   display: block;
   width: 100%;
-  max-width: 480px;
+  max-width: 100%;
   margin: 0 auto 0.5rem;
   border: 1px solid #3a3342;
   border-radius: 8px;
