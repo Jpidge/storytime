@@ -14,3 +14,58 @@
 }
 .post-tag:hover { background: #f3f3f3; text-decoration: none; }
 .book-tags { margin-top: -0.5rem; }
+
+/* Dark mode (John's call, 2026-11-05): deep plum-charcoal under the
+   theme-base-0e mauve sidebar; accent lifted one shade for dark ground. */
+body {
+  color: #d9d3de;
+  background-color: #17141c;
+}
+h1, h2, h3, h4, h5, h6 { color: #f2edf4; }
+strong { color: #ece7ef; }
+.theme-base-0e .container a,
+.theme-base-0e .related-posts li a:hover {
+  color: #cf9cc4;
+}
+.masthead-title,
+.masthead-title a { color: #e9e3ec; }
+.masthead-title small { color: #8f8694; }
+.post-date { color: #a298ab; }
+blockquote {
+  color: #b7abbf;
+  border-left-color: #4b4153;
+}
+code {
+  color: #e3a0b4;
+  background-color: #272231;
+}
+pre { background-color: #221e2b; }
+.highlight { background-color: #221e2b; }
+hr {
+  border-top-color: #3a3342;
+  border-bottom-color: transparent;
+}
+table, td, th { border-color: #3a3342; }
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th { background-color: #211d29; }
+.pagination-item { border-color: #3a3342; }
+.pagination-item:hover { background-color: #282231; }
+.related { border-top-color: #3a3342; }
+.related-posts li small { color: #8f8694; }
+.message {
+  color: #b7abbf;
+  background-color: #262130;
+}
+.sidebar-toggle {
+  background-color: #221e2b;
+  border-color: #3a3342;
+}
+.post-tag {
+  border-color: #574a61;
+  color: #d3c8da;
+}
+.post-tag:hover { background: #2b2434; }
+::selection {
+  background: #aa759f;
+  color: #fff;
+}
