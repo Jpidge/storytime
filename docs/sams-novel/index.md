@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Sam's Novel"
 permalink: /sams-novel/
 ---

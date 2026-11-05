@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Rowan's Novella"
 permalink: /rowans-novella/
 ---

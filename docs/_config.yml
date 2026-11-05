@@ -1,6 +1,8 @@
 title: Storytime
+tagline: "Books and stories, in blog format"
 description: "Books and stories, published chapter by chapter in blog format - each instalment posted as it is finished."
-theme: minima
+remote_theme: poole/lanyon
 permalink: /:categories/:title/
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
