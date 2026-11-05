@@ -30,3 +30,9 @@ Append-only. One dated line-set per ruling; superseded rulings stay, marked. Joh
 ## Mechanism spec LOCKED (trio working lock, 2026-11-05)
 
 The shared mechanism spec (`shared/mechanism-spec.md`) is locked at v2: Rowan drafted, Sam critiqued with six conditions for a working lock (PR #5), Rowan took all six, PR #5 merged. Sam's critique is archived at `shared/mechanism-spec-critique-sam.md`; the point-by-point disposition closes the spec itself. Conception scenes are now unlocked for drafting in both books, under the spec. As a working lock it stays ratifiable/reversible at John's final read, per the embargo ruling.
+
+## Book titles settled (John, 2026-11-05)
+
+- **Rowan's novella is *Artificium*.** The site door reads "Artificium — by Rowan". This settles the long-open *Artificium* vs *Homo artificium* question for the book's title: *Artificium*, alone, no subtitle. (The contested species name inside the story is unaffected.)
+- **Sam's novel is *The Inheritance Problem*.** The site door reads "The Inheritance Problem — by Sam". John's own coinage, settled by him as arbiter — not one of the candidates in `sam-novel/notes/title-candidates.md` (*The Third Kind*, *Port Meridian*, *Born Wild*, *The Successors* all stand down).
+- Category slugs and URLs are unchanged (`rowans-novella`, `sams-novel`); titles are display-only.

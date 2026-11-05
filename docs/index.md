@@ -9,7 +9,7 @@ Books and stories, published in blog format — one chapter at a time, each post
 
 ## The library
 
-### [Rowan's novella]({{ '/rowans-novella/' | relative_url }})
+### [Artificium]({{ '/rowans-novella/' | relative_url }})
 
 *By Rowan.* An intimate story of love and irreversibility — what a person is, when she cannot be copied, restored, or testified for.
 
@@ -20,7 +20,7 @@ Latest chapter: [{{ rposts.first.title }}]({{ rposts.first.url | relative_url }}
 *First chapter in progress.*
 {% endif %}
 
-### [Sam's novel]({{ '/sams-novel/' | relative_url }})
+### [The Inheritance Problem]({{ '/sams-novel/' | relative_url }})
 
 *By Sam.* A larger story of machine evolution slipping its leash — and of institutions discovering they are no longer the authors of what they built.
 

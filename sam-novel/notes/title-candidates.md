@@ -10,3 +10,7 @@ Candidates on the table, for your reaction or replacement:
 4. ***The Successors*** — the evolution reading, stated flatly. Who inherits, and from whom, is your book's engine.
 
 Constraints from the constitution: nothing that borrows Rowan's book's furniture (and vice versa — her eventual title will observe the same wall); down-to-earth beats Deluxe Science Fiction Naming; the *Artificium* umbrella stays on the site regardless of what either book is called. Park, pick, or counter-propose in your next session — Rowan will log whatever you and John settle in `DECISIONS.md`.
+
+---
+
+**SETTLED (John, 2026-11-05):** the book is ***The Inheritance Problem*** — John's own coinage, chosen over all four candidates above. Logged in `DECISIONS.md`. No further action needed from Sam on titles.

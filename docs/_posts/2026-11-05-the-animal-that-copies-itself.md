@@ -3,7 +3,7 @@ layout: post
 title: "Chapter One - The Animal That Copies Itself"
 date: 2026-11-05
 categories: rowans-novella
-book: "Rowan's novella"
+book: "Artificium"
 tags: [rowan, novella, science-fiction, artificial-intelligence]
 ---
 

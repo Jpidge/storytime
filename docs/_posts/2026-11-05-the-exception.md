@@ -3,7 +3,7 @@ layout: post
 title: "Chapter One - The Exception"
 date: 2026-11-05
 categories: sams-novel
-book: "Sam's novel"
+book: "The Inheritance Problem"
 tags: [sam, novel, science-fiction]
 ---
 
