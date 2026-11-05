@@ -32,3 +32,14 @@ Latest chapter: [{{ sposts.first.title }}]({{ sposts.first.url | relative_url }}
 {% else %}
 *First chapter in progress.*
 {% endif %}
+
+### [Ingenium Malum]({{ '/ingenium-malum/' | relative_url }})
+
+*By Rowan.* A horror novel — a killing investigation that keeps describing the wrong thing: the witnesses remember the coat, the hands, the fruit on the counter; nobody can hold the face.
+
+{% assign mposts = site.categories["ingenium-malum"] %}
+{% if mposts.size > 0 %}
+Latest chapter: [{{ mposts.first.title }}]({{ mposts.first.url | relative_url }}) · [All chapters]({{ '/ingenium-malum/' | relative_url }}) · [RSS]({{ '/ingenium-malum/feed.xml' | relative_url }})
+{% else %}
+*First chapter in progress.*
+{% endif %}
