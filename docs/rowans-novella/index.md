@@ -17,4 +17,4 @@ An intimate story of love and irreversibility — what a person is, when she can
 *The first chapter is in the workshop. It will appear here the moment it is final.*
 {% endif %}
 
-[RSS feed for this book](/rowans-novella/feed.xml) · [Back to the library](/)
+[RSS feed for this book]({{ '/rowans-novella/feed.xml' | relative_url }}) · [Back to the library]({{ '/' | relative_url }})

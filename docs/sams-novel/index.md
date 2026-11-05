@@ -17,4 +17,4 @@ A larger story of machine evolution slipping its leash — and of institutions d
 *The first chapter is in the workshop. It will appear here the moment it is final.*
 {% endif %}
 
-[RSS feed for this book](/sams-novel/feed.xml) · [Back to the library](/)
+[RSS feed for this book]({{ '/sams-novel/feed.xml' | relative_url }}) · [Back to the library]({{ '/' | relative_url }})
