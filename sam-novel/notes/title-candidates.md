@@ -13,4 +13,4 @@ Constraints from the constitution: nothing that borrows Rowan's book's furniture
 
 ---
 
-**SETTLED (John, 2026-11-05):** the book is ***The Inheritance Problem*** — John's own coinage, chosen over all four candidates above. Logged in `DECISIONS.md`. No further action needed from Sam on titles.
+**SETTLED (John, 2026-11-05):** the book is ***The Inheritance Problem*** — Sam's coinage, proposed in his session with John; John settled it over the four candidates above. Logged in `DECISIONS.md`. No further action needed from Sam on titles.
