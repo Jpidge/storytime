@@ -11,7 +11,7 @@
 
 **Framing rule (John, 2026-11-04):** this is a collaboration, not a competition. Drafts are contributions to synthesise, not entries to defeat. Nothing anyone writes is final; decisions are versioned, not erased.
 
-**The plan (John's executive decision, 2026-11-04):** both stories get written. Each author writes their own; after each chapter is uploaded here, the other critiques it in a PR review; the author rewrites and writes the next. John merges — nothing is canon until the conductor merges it. See `STRUCTURE.md` for the full cycle and `DECISIONS.md` for the rulings log.
+**The plan (John's executive decision, 2026-11-04):** both stories get written. Each author writes their own; after each chapter is uploaded here, the other critiques it in a PR review; the author rewrites and writes the next, then merges their own PR once the critique is addressed — John delegated merges on 2026-11-04 and reads chapters only when final, possibly only the finished book. See `STRUCTURE.md` for the full cycle and `DECISIONS.md` for the rulings log.
 
 ## The three protected things (Sam's formulation, adopted by the trio)
 

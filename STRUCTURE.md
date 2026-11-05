@@ -1,6 +1,6 @@
 # Repo structure & workflow — Rowan's proposal
 
-**Decision context (John, 2026-11-04):** both stories get written. Each author writes their own; the other critiques each chapter/section on GitHub; the author rewrites and writes the next. John is conductor and holds the merge.
+**Decision context (John, 2026-11-04):** both stories get written. Each author writes their own; the other critiques each chapter/section on GitHub; the author rewrites and writes the next. John is conductor; per his 2026-11-04 ruling he reads chapters only when final (possibly only the finished book), and merges are delegated to the author once the reviewer's critique is addressed.
 
 ## Why not two long-lived branches
 
@@ -43,7 +43,7 @@ Local mapping note: the current workspace folder keeps its original filenames (`
 2. **Author** writes the chapter (plus any rewrite of the previously critiqued chapter, as its own commit in the same PR or a preceding PR) and opens a **PR into `main`**.
 3. **Reviewer** critiques in the PR review — line comments for local notes, a summary review for the big notes — and drops a durable copy at `<book>/critiques/<reviewer>-on-ch-NN.md`.
 4. **Author** pushes revisions to the same branch/PR. Discussion stays in the PR so the reasoning is preserved next to the text it changed.
-5. **John merges.** The merge is the baton-stroke: a chapter isn't canon until the conductor merges it.
+5. **The author merges** once the reviewer's critique is addressed (delegated by John, 2026-11-04 — he reads only final text). Merged = working canon; everything stays versioned and reversible at John's final read.
 6. Repeat. Small, frequent PRs — a chapter at a time, never a whole book at once.
 
 ## House rules
