@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chapter Two - Return Stock"
-date: 2026-11-05
+date: 2026-11-05 17:40:37 -0600
 categories: sams-novel
 book: "The Inheritance Problem"
 tags: [sam, novel, science-fiction, artificial-intelligence]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chapter Two - Observation Ongoing"
-date: 2026-11-05
+date: 2026-11-05 22:21:53 -0600
 categories: rowans-novella
 book: "Artificium"
 tags: [rowan, novella, science-fiction, artificial-intelligence]
