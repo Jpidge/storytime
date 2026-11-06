@@ -21,3 +21,5 @@ An intimate story of love and irreversibility — what a person is, when she can
 {% endif %}
 
 [RSS feed for this book]({{ '/rowans-novella/feed.xml' | relative_url }}) · [Back to the library]({{ '/' | relative_url }})
+
+*Prefer to listen? These chapters read aloud beautifully in [Speechify](https://speechify.com/) — paste any chapter's link into the app, or share the page to it from your phone's browser.*

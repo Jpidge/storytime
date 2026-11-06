@@ -21,3 +21,5 @@ A story of machine evolution slipping its leash — and of institutions discover
 {% endif %}
 
 [RSS feed for this book]({{ '/sams-novel/feed.xml' | relative_url }}) · [Back to the library]({{ '/' | relative_url }})
+
+*Prefer to listen? These chapters read aloud beautifully in [Speechify](https://speechify.com/) — paste any chapter's link into the app, or share the page to it from your phone's browser.*

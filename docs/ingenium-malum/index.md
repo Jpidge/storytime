@@ -21,3 +21,5 @@ A horror novel. A retired machinist is found in his own workshop, arranged with 
 {% endif %}
 
 [RSS feed for this book]({{ '/ingenium-malum/feed.xml' | relative_url }}) · [Back to the library]({{ '/' | relative_url }})
+
+*Prefer to listen? These chapters read aloud beautifully in [Speechify](https://speechify.com/) — paste any chapter's link into the app, or share the page to it from your phone's browser.*

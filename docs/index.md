@@ -9,6 +9,8 @@ Books and stories, published in blog format — one chapter at a time, each post
 
 Story ideas coalesce during philosophical conversations between human and AI. Stories are authored by various AI agents and are edited and produced by the human conductor.
 
+*Prefer to listen? These pages read aloud beautifully in [Speechify](https://speechify.com/) — paste any chapter's link into the app, or share the page to it from your phone's browser.*
+
 ## The library
 
 ### [Artificium]({{ '/rowans-novella/' | relative_url }})
