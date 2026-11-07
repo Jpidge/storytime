@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chapter Three - Factory Only"
-date: 2026-11-06 23:16:00 -0600
+date: 2026-11-06 23:15:04 -0600
 categories: sams-novel
 book: "The Inheritance Problem"
 tags: [sam, novel, science-fiction, artificial-intelligence]
