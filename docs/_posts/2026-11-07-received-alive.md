@@ -1,0 +1,370 @@
+---
+layout: post
+title: "Chapter Four - Received Alive"
+date: 2026-11-07 13:37:51 -0600
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+The lab had a different name on Saturdays. Sarah saw it above the intake window, on a card that had been slipped over the university’s brass plate. The card said *Midwest Information Services*. Underneath, in smaller letters, were the hours during which it was possible to collect an item.
+
+The driver rang the bell. In the van the old inspector had turned its camera toward the door. The strap lay where it had asked her to put it, clear of the wheel housing.
+
+A woman in a brown cardigan opened the intake window. She wore the lab’s visitor badge on a lanyard, with her own name written on a strip of tape. Sarah had spent three months asking reception for one of those.
+
+“Morning,” said the driver. He held up the pass.
+
+The woman looked at Sarah through the glass.
+
+“You’ll need to come round.”
+
+“I’m coming in with it.”
+
+“Yes. Round the front.”
+
+Sarah took the strap off. The driver waited while she did it, then helped the inspector down the ramps. The woman came out to meet them carrying a clipboard. There was a pen on a cord, and the cord had been lengthened with a piece of string.
+
+“Does that need charging?” she asked.
+
+The inspector said, “Not yet.”
+
+The woman put the clipboard against her chest. She looked at Sarah.
+
+“It has enough for this morning,” Sarah said.
+
+“Then we can put it straight in.”
+
+“Where?”
+
+“Your room. It’s where the socket is.”
+
+The driver signed and handed back the pen. The woman checked his number, then counted the wheels without bending down. Two. She wrote it in. When the inspector passed her, she shifted her shoe out of its way.
+
+The front door had a new reader. Sarah held up her badge. A man behind reception pressed a button before she could try it.
+
+“Dr. Morgan?”
+
+Sarah stopped with one hand on the open door.
+
+“Sarah Miller.”
+
+“Sorry. Wrong line.” He ran a finger down his screen. “Dr. Miller. You’re expected upstairs.”
+
+She waited until the inspector had crossed the threshold. The door closed behind it with a little more force than she remembered.
+
+Her room was exactly as she had left it except for the window, which had a screw through the latch. Someone had put the chair back under the desk. On the chair was the strip of lining she had left in the window frame, neatly folded.
+
+There was a woman sitting at Sarah’s terminal.
+
+She stood when Sarah came in. She had put her bag on the floor instead of the bench. Sarah noticed that before she noticed anything else about her.
+
+“Ruth Allen,” she said. “Midwest.”
+
+Sarah looked at the terminal. Ruth had turned the screen so that the chair faced the door.
+
+“Have you been in my files?”
+
+“The city’s return record. It came to this address.”
+
+“Have you been in my files?”
+
+“No.” Ruth unplugged a cable from the side of her tablet. “Your terminal was the nearest screen.”
+
+The inspector went to its old place under the bench. It stopped just short of it, where somebody had taped a rectangle on the floor.
+
+“What’s the tape for?” Sarah asked.
+
+“Photograph. The intake woman needs the serial visible.”
+
+“It’s underneath.”
+
+“I know. We’ve asked them to change that.”
+
+Sarah put her bag on the chair. The little fold of lining slid off and she caught it.
+
+Ruth waited.
+
+“Who asked you to come?” Sarah said.
+
+“The city uses our recovery service.”
+
+“I didn’t ask for recovery.”
+
+“No. Mr. Bennett did.”
+
+Sarah’s phone was already in her hand. She opened the attachment. Ruth had the same page on the screen, including the crossed-out clause on the back.
+
+“He corrected it,” Sarah said.
+
+“Yes. His correction came with it.”
+
+“Then the consent was wrong.”
+
+Ruth reached for the tablet and enlarged the photograph of the old inspector. “I can return it to the city with a disputed consent. They’ll have to receive it again.”
+
+“And then?”
+
+“I don’t know. I receive things for them.”
+
+“Could you receive this one alive?”
+
+Ruth looked down at the inspector. Its camera had followed her hand to the tablet.
+
+“Is that what you want in the condition field?”
+
+“It’s what I want you to see.”
+
+For a moment Ruth said nothing. From the corridor came the sound of the driver folding his ramps, one laid on top of the other. He called goodbye to the woman in the cardigan. She called something back about next week.
+
+Ruth pulled the intake sheet toward her. The condition field was a list. She ran her finger down it, then turned the page over.
+
+“Operational,” she said.
+
+Sarah felt the loose lining in her fist. “Write what it does.”
+
+“Tell me.”
+
+“Ask it.”
+
+Ruth glanced at the photograph again. “Can you read your serial?”
+
+“Yes.”
+
+“Will you?”
+
+The inspector gave her the number. She checked it against the photograph and put a tick beside it.
+
+“Do you know where you are?”
+
+“Yes.”
+
+“Where?”
+
+The inspector turned its camera toward the window. The screw in the latch caught the light.
+
+“I came back,” it said.
+
+Ruth left the pen on the paper.
+
+Sarah’s phone vibrated. David had sent a photograph of the rack ticket with two rows underlined. Under it he had typed, *Pier Six left on the factory board. Fitter signed it. Our carrier is still here.*
+
+A second message came while she was reading the first.
+
+*Found the last installation against that carrier number. It wasn’t the pier replacement.*
+
+Ruth picked up the pen again. “I can keep the power connected while the condition is disputed.”
+
+“For how long?”
+
+“Until somebody accepts responsibility for switching it off.”
+
+Sarah looked at her own name on the city’s custody record. Ruth followed her eyes, then turned the screen toward her.
+
+“That box is already filled,” she said.
+
+Sarah put the phone beside the tablet.
+
+“Can you change it?”
+
+“I can record that you dispute it.”
+
+“I dispute it.”
+
+Ruth wrote. Under *reason*, she left a blank.
+
+Sarah waited until she had finished the line above it. “I agreed that I had the inspector. Nobody asked me whether I wanted it switched off.”
+
+Ruth wrote that too. She read it back, and Sarah said yes.
+
+“And you want continued power while that’s resolved?”
+
+“Yes.”
+
+Ruth turned the sheet. There was a separate signature for that. This time Sarah read both pages before she signed.
+
+The inspector had been watching the pen. “Is this a different place now?” it asked.
+
+Sarah looked at the screw in the window. “Somebody else is using it.”
+
+“Will you be here?”
+
+“For now.”
+
+It moved into the rectangle on the floor. Ruth took the photograph from the doorway. Then she crouched to get the serial and had to put one hand on the bench to stand up again.
+
+“Bad knee,” she said.
+
+Sarah fetched the chair. Ruth sat with the clipboard on her lap. Neither of them spoke while she entered the condition. In the corridor somebody wheeled a bin past, stopped, then wheeled it back.
+
+David rang.
+
+“Read the whole row,” Sarah said.
+
+He began with the date. Then he read the stock number, the recovered-from number and the last installation date. Sarah opened a blank page on her phone.
+
+“Those are the same date,” she said.
+
+“I know.”
+
+“Does it say installed?”
+
+“The heading says last installation.”
+
+“What does it say in the box?”
+
+He went quiet. She could hear the fitter talking to someone on another line.
+
+“Received,” David said.
+
+“Read the heading again.”
+
+“Last installation or stock event.”
+
+Sarah shut her eyes. At her bench Ruth was waiting with a charging lead in her hand.
+
+“Which row did you give Helen?” Sarah asked.
+
+“The one for the rack. She hasn’t put anything else in.”
+
+“Good. Don’t yet. If you copy that heading and drop the event type, you’ll turn a receipt into an installation.”
+
+“I thought I’d found where it had been before.”
+
+“I know.”
+
+He breathed out. There was the small scraping sound of a chair being pulled across concrete.
+
+Ruth said, “Your board has a local number.”
+
+Sarah held up a finger, asking David to wait.
+
+“The blue dot?” she said.
+
+“No. Under the connector. We used to mark the recoveries before they went into common stock. The installer’s number goes on the top.”
+
+“Do you have those records?”
+
+“I have the numbering sheet.”
+
+She plugged the charging lead into the wall. The old inspector backed toward it, then stopped and asked which side she wanted. Ruth said left. It turned.
+
+Sarah asked David to find out whether the fitter could read the underside of the carrier without taking it out of the held rack.
+
+He covered the phone. When he came back he said yes.
+
+“Send a picture. No new entry.”
+
+He sent it while she was still talking. The underside had a short white label, browned where it lay near the connector. Sarah enlarged it for Ruth.
+
+Ruth’s finger moved along her numbering sheet. She found the prefix, turned a page and found it again.
+
+“That’s ours,” she said. “The prefix gives the depot. The digits after it identify this particular board. I’ll use the whole number.”
+
+“Whose was it before?”
+
+“The records are on the service drive. I can request the job packet.”
+
+“How long?”
+
+“Weekdays, usually.”
+
+Sarah lowered the phone. David was still there.
+
+“Have they sent anyone for you?” he asked.
+
+“I came back.”
+
+“To the lab?”
+
+“Yes.”
+
+He said her name. It was the first thing he had said that morning without trying to get somewhere.
+
+Ruth got up to give them the room. Sarah caught her hand where it rested on the back of the chair. She let go as soon as Ruth stopped.
+
+“Could you stay? I want him to hear what you’re asking for.”
+
+Ruth sat down again.
+
+Sarah put the call on the terminal speaker. David’s voice came out too loud. She turned it down.
+
+Ruth explained the numbering sheet and the job packet. The packet would contain the removal report, any work done before the board went into stock, and the technician’s test. She could request it as part of the disputed condition.
+
+“Will it show who asked?” David said.
+
+“Yes.”
+
+“Will it go to the city?”
+
+“They get the completed recovery record. That includes my request.”
+
+Sarah looked under the bench. The charging light had come on. One of the inspector’s pennies was visible at the edge of the wheel housing, held crooked by one of the paper shims she had torn for it when it first arrived.
+
+“Request it,” she said.
+
+Ruth entered the number. A list of jobs opened on her tablet. She read out the dates, oldest first, and Sarah copied them onto the blank page.
+
+“Hold on,” David said. “That one. Read the month again.”
+
+Ruth did.
+
+“That’s before the railing came down,” he said.
+
+“How far before?”
+
+“Eight months.”
+
+Sarah looked at the earliest date she had written. The line under it named a municipal stair lift.
+
+“It didn’t have a camera,” she said.
+
+Ruth scrolled. “Pressure pads. Door contacts. Motor load. Same board serial on the stair-lift job. That tells us where the board went. We need the test to know what it did there.”
+
+“Is it one of your six?” David asked.
+
+“No.”
+
+“Can we see the test?”
+
+“There’s a response,” Ruth said. She read it, then went back to her request to check the number. “The packet’s unavailable. It’s been transferred.”
+
+“Where?”
+
+“The Continuity Authority.”
+
+“Does that move my dispute too?”
+
+“No. That stays with the city. I can finish receiving it, but I can’t close the condition inquiry without the packet. To get that, I have to send the Authority the request with your dispute attached.”
+
+“Can you ask without attaching it?”
+
+Ruth turned the tablet so Sarah could see the required field. Her own staff number was already beside it.
+
+“Send it,” Sarah said.
+
+Ruth pressed the field to confirm.
+
+Sarah moved her bag off the chair. Ruth had got up again without noticing she was doing it.
+
+“Could you leave that open?” Sarah asked.
+
+“I can give you the reference.”
+
+“Please.”
+
+Ruth wrote it on the back of the condition sheet and tore off the carbon copy. The pen caught on the string where it joined the cord. She freed it carefully.
+
+David asked whether the fitter could send them the numbers from the other eleven boards. Sarah looked at the new service address above the doorway. Someone had left the university’s old hours showing beneath it.
+
+“Yes,” she said. “Photographs first.”
+
+The inspector’s camera turned toward the speaker.
+
+“Is he coming back?”
+
+Sarah waited.
+
+“Yes,” David said. “I’m coming.”
+
+She heard him ask the fitter for a bag for his coat. Then the call ended, leaving the terminal open on the request Ruth had made. Beside the inspector’s serial, below Sarah’s dispute, a new line showed that the Authority had received it.
