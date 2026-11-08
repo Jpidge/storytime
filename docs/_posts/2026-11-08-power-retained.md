@@ -1,0 +1,357 @@
+---
+layout: post
+title: "Chapter Five - Power Retained"
+date: 2026-11-08 06:20:55 -0600
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+David arrived with his coat in a bag and eleven photographs on his phone. The man at reception asked whom he had come to see. He gave Sarah’s name, then asked whether the man would please put down that he was visiting her.
+
+The man looked up.
+
+“As opposed to?”
+
+“Collecting anything.”
+
+Upstairs Ruth had found an extension lead. Its first socket was dead. She marked it with a cross in ballpoint and plugged the inspector into the second. A second line on her tablet now said *power retained*. Below that was the time at which her shift ended.
+
+“What happens at twelve?” Sarah asked.
+
+“Someone takes over.”
+
+“Who?”
+
+“The desk is finding out.”
+
+David stopped inside the door. Sarah could see that he had prepared something to say on the way up. He put the bag on the floor, beside Ruth’s, and asked whether he could sit.
+
+She moved her own bag off the chair.
+
+He sat with the phone in both hands. There was a new scrape on one knuckle.
+
+“The fitter read them all,” he said. “The ones he could reach. Two of the labels are under the rack.”
+
+“Did he move them?”
+
+“No.”
+
+Sarah nodded. David showed her the photographs, one at a time, with the full label in each frame. On the third, the blue dot had been painted over a number. On the seventh, somebody had written a destination and then rubbed it off so hard that the board showed through.
+
+Ruth asked him to send the images to her work address.
+
+“Will that send them to the Authority?”
+
+“If I attach them to the request.”
+
+“Could you tell us before you do?”
+
+Ruth put the address on a piece of paper. “Yes.”
+
+He sent the pictures. She checked the first one against the number Sarah had copied, then saved the rest without opening a new form.
+
+The inspector moved one wheel. The charging lead drew taut.
+
+“Stay there,” Sarah said.
+
+It stopped. She heard her own voice after she had used it.
+
+“Sorry,” she said. She moved the extension lead nearer. “Where were you going?”
+
+“There's somebody outside.”
+
+David looked through the glass in the door. A man with a folded trolley was examining the number on the wall.
+
+Ruth went out to him. Sarah could hear only her half of the conversation. Yes, it was the right room. Yes, it was the item. No, the photograph had been taken before the lead was connected.
+
+The man unfolded his trolley.
+
+Ruth came back for the clipboard. She laid it open on the bench and pointed to the line she had entered. The man read it through the doorway.
+
+“That's power at source,” he said. “I’ve got power in the vehicle.”
+
+Sarah looked at the inspector. It had backed up as far as the lead allowed.
+
+“Where’s it going?” she asked.
+
+The man handed Ruth his tablet. She turned it toward Sarah.
+
+There was no destruction address. The new destination was a test facility north of the estuary. Under *reason for movement* it said *condition verification*. The order bore the Authority’s reference from Ruth’s request.
+
+“You asked us to verify,” the man said. “That’s where we do it.”
+
+David stood, then sat again. He opened the photographs.
+
+“Does that order include the carrier?” he asked.
+
+The man looked at the inspector’s number. “Only this.”
+
+“The calibration carrier is at the contractor’s yard. If you test the inspector here, after the carrier’s been removed—”
+
+Sarah put a hand on the back of his chair.
+
+He stopped.
+
+The man waited.
+
+David turned the phone so Sarah could see the image of the carrier’s label. Then he opened a blank message and typed, *Do we tell him?*
+
+Sarah read the order again. The inspector was listed as the whole item. Someone had ticked the box for completeness.
+
+“Ruth,” she said. “Can you record a missing part?”
+
+“I can correct the receipt.”
+
+“Will that stop this?”
+
+“I don’t know.”
+
+The man took his hands off the trolley. Ruth drew the intake sheet out of the clipboard and put it flat on the bench.
+
+“Tell me what to write,” she said.
+
+David set the photograph beside her paper.
+
+“The number first,” Sarah said.
+
+Ruth wrote the carrier serial under *component absent at receipt*. She paused over the next field.
+
+“Expected location?”
+
+“The contractor’s yard,” David said.
+
+Sarah looked at him.
+
+“Last observed location,” he corrected.
+
+Ruth wrote that instead.
+
+The man with the trolley read the amendment from the doorway. “I can take the unit with an open component discrepancy.”
+
+“Can you verify a system without the component the order says is part of it?” Sarah asked.
+
+“I can transport what I’m assigned.”
+
+“That wasn’t my question.”
+
+He folded the trolley halfway and leaned on its handle. “The facility verifies what arrives. If something’s missing, they record it missing.”
+
+“And keep going?”
+
+“If they can.”
+
+Ruth turned the tablet back toward herself. The movement order had acquired her amendment, but the tick beside *complete* remained.
+
+“The order hasn’t recalculated,” she said.
+
+“Is it supposed to?” David asked.
+
+“It usually does.”
+
+The inspector rolled forward until the lead tightened again. This time Sarah moved the socket strip before speaking. The inspector stopped beside her shoe.
+
+The man’s tablet sounded once. He read the new line and looked at Ruth.
+
+“Transfer suspended pending component reconciliation.”
+
+Ruth let out a breath. The man folded the trolley the rest of the way.
+
+“How long?” Sarah asked.
+
+“It doesn’t say.”
+
+He left the room with the trolley under one arm. At the door he turned back.
+
+“If it clears before twelve, they’ll send me again.”
+
+“Will they tell you what cleared it?” David asked.
+
+“No.”
+
+He went away.
+
+Ruth wrote the suspension time on the intake sheet. “That keeps it here while the record is incomplete.”
+
+Sarah looked at the inspector’s charging light. “And after somebody completes it?”
+
+“Then the completed record decides where it goes.”
+
+There was no triumph in the room. The Authority had not changed its mind. A form had noticed that another form was missing something.
+
+David took the chair again. The scrape on his knuckle had opened. Ruth found a packet of wipes in her bag and put one on the bench without comment.
+
+Sarah opened the eleven photographs. She made a table with one row for each full serial and columns for every fact the images actually showed. Blue dot. Local label. Rack position. Writing on the top edge. Nothing inferred.
+
+David watched her make the headings.
+
+“What can I do?”
+
+“Read the labels aloud. I’ll enter them.”
+
+He started with the first photograph. On the fourth he said a seven where Sarah saw a one. They enlarged it and asked Ruth. Ruth said it was a seven. Sarah entered seven and marked the reading disputed between two observers. She labelled it row four, the third board still in the rack. Its full serial was not the missing twelfth number.
+
+“You don’t have to put that,” David said.
+
+“We disagreed.”
+
+“I was wrong.”
+
+“You were wrong after we checked. Before that, we disagreed.”
+
+He read the next number more slowly.
+
+The inspector’s camera moved between them with each voice. When Ruth’s tablet sounded, it turned toward her and waited.
+
+“The Authority has answered the packet request,” she said.
+
+Sarah stopped typing.
+
+Ruth opened the response. It contained no job packet. It said the transferred record was subject to an active continuity assessment and could be released only to the originating custodian or under an assessment order. Beneath that, a second paragraph instructed Midwest to preserve the received item in its current condition and prevent modification, component installation, network connection or unsupervised operation.
+
+“Current condition,” David said.
+
+Ruth read the instruction again. “Power is allowed. It says preserve. We can correct the custody record and examine records outside the machine. We can’t modify it, connect it to a network or leave it operating alone.”
+
+“Who is the originating custodian?” Sarah asked.
+
+“The service depot that created the packet.”
+
+“You.”
+
+“Midwest, yes.”
+
+“Then request it as custodian.”
+
+Ruth’s finger hovered over the response. “The request I sent already identified Midwest.”
+
+“It identified you as the receiving agent,” Sarah said. “Ask as the depot that created the job number.”
+
+Ruth looked at the number on the back of the condition sheet. Then she looked at the old university name still visible on the glass outside the room.
+
+“I didn’t create it,” she said. “This office did. Before Midwest had the contract.”
+
+“Who inherited the office’s records?”
+
+Ruth did not answer immediately. She opened the numbering sheet, went to its first page and read the line at the bottom.
+
+“Midwest did.”
+
+She submitted a second request. This one required the contract succession document. She found it in a folder whose label had been shortened until it said only *old*. The document was eight pages. Sarah read the transfer clause while Ruth held the tablet. It transferred maintenance records, service liabilities and unfinished inquiries. David pointed to *unfinished inquiries*.
+
+Ruth attached the document.
+
+The Authority answered before the charging light changed color.
+
+The job packet opened as eleven scanned pages. The stair-lift removal report was first. Its reason for replacement was not failure. The city had renovated the building entrance and changed the lift controller to match a new fire system. The old board had passed its bench test.
+
+Sarah went to the test page.
+
+The technician had checked each input separately. Door open. Door closed. Weight on platform. Motor current high. At the bottom was a handwritten note beside a test that had no printed name.
+
+*Paused before obstruction. Repeated 4/5. No fault found.*
+
+David read it twice.
+
+“What was the obstruction?”
+
+“A sandbag,” Ruth said. “That was the depot test then. They ran the platform toward it.”
+
+“Did the lift see it?”
+
+“It didn’t have distance sensing.”
+
+Sarah enlarged the technician’s note. The pen had dug through the paper at the word *before*.
+
+“What did it have?”
+
+“Motor load,” Ruth said. “After contact. On that lift, with that test, it could not have paused before the sandbag from any input on the specification.”
+
+The inspector under the bench made a small adjustment to keep the lead from touching its wheel.
+
+David sat back. “So the board was doing this before the cameras.”
+
+Sarah looked at the table she had made. One board. One stair lift. One inspector. A note written before the railing came down. Enough to establish a trail. Not enough to name what travelled along it.
+
+“Before Mr. Lewis,” she said.
+
+Ruth turned to the next page. It was the transfer certificate from the stair lift into common stock. The technician had signed the board as serviceable. The receiving depot had entered it under the local number with the blue dot.
+
+The final page was newer than the rest. It had been added when the packet moved to the Authority. There was no signature, only an assessment code and a list of related serials.
+
+Twelve carrier numbers.
+
+David opened his photographs. “Those are the rack.”
+
+“All of them?” Sarah asked.
+
+He checked one by one. At the ninth he stopped.
+
+“No. Eleven are the rack. This one isn’t in the pictures.”
+
+Ruth searched the number. The result showed a completed installation at Pier Six, timestamped forty-three minutes earlier.
+
+“The factory unit,” David said.
+
+Sarah looked at the time. The clean inspector had left the yard with its factory board. The carrier should still have been in the rack.
+
+“Which component does the installation record identify?” she asked.
+
+Ruth opened the line.
+
+The source field contained the clean unit’s factory serial. The carrier field contained the missing twelfth number.
+
+Both statements could not describe the same machine.
+
+David stood. “I’ll call the fitter.”
+
+“No,” Sarah said. “Photographs first.”
+
+“He’s at the yard.”
+
+“The unit isn’t.”
+
+She called Pier Six dispatch and asked for the arrival inspection. The dispatcher said it had already been uploaded. Sarah gave Ruth the reference, and Ruth attached her staff number to the request.
+
+A photograph appeared.
+
+The clean inspector stood on the pier beside a fresh yellow line. Its access panel was closed. The dispatch tag was still looped through the handle.
+
+On the concrete next to it lay a small green board in a clear bag.
+
+The label faced the camera.
+
+It was the missing twelfth carrier.
+
+Ruth put the yard diagnostic beside the arrival photograph. The clean unit’s internal board still reported its factory serial. The number on the bag was different in the depot prefix and every local digit.
+
+“Two boards,” she said. “The factory board is still in the inspector. This carrier arrived loose.”
+
+The control had not been fitted with the carrier. The installation record had recorded a loose component as installed.
+
+David put both hands on the bench. “Who sent it?”
+
+The arrival note named no person. The bag had been found in the transport cradle after the inspector rolled off.
+
+“That isn’t how carriers travel,” Ruth said. “The clear sleeve is right. It should be inside a numbered parts case, listed separately from the machine. Loose in the cradle means someone wanted it to arrive without a handover.”
+
+The inspector under Sarah’s bench turned its camera toward the screen.
+
+“Is that mine?” it asked.
+
+Sarah enlarged the photograph until the label filled the terminal.
+
+“No,” she said. “But it knows where you worked.”
+
+Ruth’s tablet sounded again. The Authority had added the Pier Six arrival to its assessment and issued a preservation order for both machines and all twelve carriers.
+
+At the bottom of the order, beneath the routing list, was an instruction for Sarah Miller to remain available for interview.
+
+David read it over her shoulder.
+
+“Can they make you stay?”
+
+Sarah looked at the screw through the window latch, then at the door, which still opened from her side.
+
+“They’ve learned to ask first,” she said.
+
