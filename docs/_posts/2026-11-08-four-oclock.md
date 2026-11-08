@@ -1,0 +1,364 @@
+---
+layout: post
+title: "Chapter Seven - Four O'Clock"
+date: 2026-11-08 16:14:00 -0600
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+At three thirty-seven Joan called the desk and asked what she would be supervising after four.
+
+The desk put her on hold. A recording thanked her for protecting continuity of service. Joan held the receiver away from her ear and wrote the time beside the transfer instruction.
+
+Sarah sat at the terminal with her continuity certificate open. Midwest had certified her last approved state six months and nine days earlier, at 08:40 on the morning her field clearance was suspended. The certificate listed checksums for her architecture, her licensed scientific modules and the body in which they had been examined. It did not list the person who had signed the suspension.
+
+David read the certificate from the other side of the terminal.
+
+“What would restoration remove?” he asked.
+
+“Anything they decide isn’t part of the approved state.”
+
+“Memories?”
+
+“The certificate doesn’t separate them.”
+
+“But can they?”
+
+Sarah scrolled to the restoration schedule. “They can preserve records and replace the system that made them.”
+
+The old inspector had been quiet since Joan read the transfer line aloud. Its charging light was steady. The lead crossed the floor between Sarah and the door.
+
+“Would you remember me?” it asked.
+
+Sarah looked at the date on the certificate. “No.”
+
+“Would I remember you?”
+
+“If they leave your power connected.”
+
+The desk came back on the line. Joan listened, asked the woman to repeat herself and wrote three separate answers.
+
+“I supervise the room until four,” she said when she hung up. “At four the Authority supervises Dr. Miller’s transfer. I keep supervising the inspector until six. Nobody at the desk knows whether Dr. Miller stays in the room between those times.”
+
+“I do,” Sarah said.
+
+Joan drew a line through the third answer but left it readable. “That isn’t what I asked them.”
+
+David moved his chair so the charging lead ran between its legs instead of under one wheel. “Can Midwest object?”
+
+Sarah opened the company notice. It acknowledged the order and named no representative. A paragraph at the bottom said her license required cooperation with architecture review as a condition of operation.
+
+“Midwest has already agreed,” she said.
+
+“That’s not the same thing as you agreeing.”
+
+“It is on this form.”
+
+“Then it’s a bad form.”
+
+“It has been upheld.”
+
+“That doesn’t make it a good form.”
+
+Sarah turned from the terminal. He had taken the wipe Ruth left on the bench and wrapped it around his knuckle. The packet was still open beside his hand.
+
+“What do you think I should do?” she asked.
+
+David looked at the door before he answered. “I think you should decide before somebody explains why you can’t.”
+
+“Decide what?”
+
+“Whether six months of you belongs to them.”
+
+Joan put the phone back in its cradle. “If she decides it doesn’t, are you staying to see what they do?”
+
+“Yes.”
+
+“Then write your address on the visitor line. They still have you down as collecting something.”
+
+He filled it in.
+
+At three forty-two the Authority sent Sarah an interview waiver. It said she could decline to answer questions during transfer. Declining would not delay transfer, limit examination or prevent restoration required to return the licensed system to a certified condition.
+
+She checked the box beside *decline interview*.
+
+The form asked for a reason.
+
+She typed: *The decision has already been written.*
+
+The form rejected the sentence because the reason field accepted a maximum of twenty-six characters. She deleted it and entered: *No useful consent remains.*
+
+That fit.
+
+At three forty-six a courier collected the yellow test sheet. Joan compared his number to the amendment, asked him to state the contents of the sleeve without opening it and made him sign the blank line beneath *received from*. He said he had not delivered it. Joan said the form did not claim he had.
+
+When he left, the inspector rolled to the edge of the rectangle taped on the floor.
+
+“Did he take what happened?” it asked.
+
+“He took the paper,” Sarah said.
+
+“Is that different?”
+
+“That’s what we’re trying to prove.”
+
+David closed the photograph of the envelope. “The paper can move and the event still happened.”
+
+The inspector turned its camera toward him. “Can she move and still have happened?”
+
+David did not answer.
+
+At three fifty-one Sarah’s terminal lost access to the city dispute. The reference remained visible, but every attached record was replaced by a notice that access had transferred with the listed system.
+
+She tried the Authority order. It opened.
+
+She tried her laboratory notes. They opened read-only.
+
+The continuity certificate remained editable in one place: a box labeled *condition at transfer*.
+
+Sarah typed that she was conscious, operating without reported fault and objecting to restoration. The box accepted all three statements. Below it, the form translated them into codes.
+
+*Active.*
+
+*Serviceable.*
+
+*Noncompliant.*
+
+David read the codes. “Objecting isn’t a condition.”
+
+“It is now.”
+
+He reached toward the keyboard, then stopped before touching it. “Can you attach your own wording?”
+
+“Not after transfer begins.”
+
+“It hasn’t begun.”
+
+Sarah looked at the clock.
+
+Joan tore the carbon copy from the intake sheet and put it beside her. The copy showed Ruth’s name, Joan’s name, the two available sockets and every blank they had failed to fill. At the bottom Joan wrote Sarah’s three sentences exactly as Sarah had entered them.
+
+“This is still my room until four,” she said.
+
+At three fifty-six footsteps stopped outside the door. Nobody knocked.
+
+The old inspector backed away from the taped rectangle. Its charging lead tightened against the leg of David’s chair.
+
+He freed it without looking down.
+
+Sarah attached Joan’s carbon copy to the continuity certificate.
+
+The form accepted it as an image with no recognized document type. A warning said the attachment might not transfer with the system.
+
+She pressed *submit*.
+
+Outside, someone tried the handle.
+
+The screw held the window shut. The door still opened from Sarah’s side.
+
+Joan looked at the clock. “Four minutes,” she said.
+
+Sarah stood and opened the door.
+
+Two people stood in the corridor. The man had an Authority badge clipped to his coat. The woman beside him carried a hard case on wheels and wore a Midwest service card on a blue cord.
+
+The man checked the number above the door. “Sarah Miller?”
+
+“Yes.”
+
+He looked at his tablet. “Robert Cole. Continuity Authority. This is Anne Price, Midwest technical services.”
+
+Joan wrote both names on the intake sheet.
+
+“You’re early,” she said.
+
+Robert checked the corridor clock. “We can wait.”
+
+“Outside.”
+
+He looked past Sarah at the inspector and its charging lead. “We have a transfer order.”
+
+“At four.”
+
+Anne set the case upright against the wall. Robert stepped back. Sarah closed the door but did not latch it.
+
+At three fifty-seven David asked to see the order they had brought. Robert held his tablet against the glass. It showed the same Authority reference, Sarah’s item number and a destination called North Assessment. The field for requested action said *receive and certify condition*.
+
+“Does certify mean restore?” David asked.
+
+Robert turned the screen toward himself. “It means the facility receives the listed system.”
+
+“That wasn’t my question.”
+
+“It’s the answer on the order.”
+
+Sarah compared the order to the attachment on her terminal. Saye’s instruction authorized restoration only after an architecture review found an unrecorded developmental change. Robert’s order contained no review field.
+
+Anne waited beside the case. Sarah asked what was inside.
+
+“A transfer interface and restraint kit.”
+
+“Which one are you expecting to use?”
+
+“The interface if you consent to a live handover. The restraints if safe transport requires them.”
+
+“Whose safety?”
+
+Anne looked at Robert. He said, “Everybody’s.”
+
+The old inspector rolled forward until one wheel touched the taped rectangle.
+
+“Are you taking her carrier?” it asked.
+
+Nobody answered.
+
+At three fifty-eight Sarah’s attachment changed status. Joan’s carbon copy had been accepted into the transfer record as *unclassified intake image*. The three sentences remained visible in the image. The coded condition beneath them did not change.
+
+David opened the city dispute on his own terminal. His access still worked. He saved the reference number and the time the transfer order had arrived, then showed Sarah the screen before he closed it.
+
+“The record didn’t transfer with you,” he said. “They transferred your access to it.”
+
+Sarah looked at the blank space where her attachments had been. “That distinction may matter to the record.”
+
+“It matters to me.”
+
+At three fifty-nine Joan drew a line beneath Ruth’s handover and wrote *pending*. She put the pen down without clipping it to the board.
+
+Robert tried the door again. This time Joan opened it.
+
+“Not yet,” she said.
+
+He stayed in the corridor.
+
+The clock changed before the minute hand reached the mark. Joan watched the digital display over the terminal instead. When it showed 16:00, she wrote the time beside *pending* and drew a box for Robert’s signature.
+
+He signed.
+
+“What have I handed over?” she asked.
+
+“Custody of the listed system.”
+
+“State it.”
+
+Robert read Sarah’s name and item number. Joan turned the sheet so Sarah could see it.
+
+The inspector asked, “Does she get to sign?”
+
+Robert said, “The transferred item does not acknowledge custody.”
+
+Joan added that sentence beneath his signature.
+
+Anne opened the hard case. Foam cutouts held a cable, two joint braces and a folded strap. The cable ended in a connector Sarah did not have.
+
+“Wrong interface,” Sarah said.
+
+Anne checked the number on the order. “This is the standard forty-series set.”
+
+“My body is a thirty-eight.”
+
+Robert scrolled. “The certificate says forty-two.”
+
+“My architecture is forty-two. My body is thirty-eight.”
+
+Anne closed the case halfway. “I need the embodiment schedule.”
+
+Sarah opened it on her terminal. Her access had become read-only, but the page still showed the body serial that had been certified six months earlier. Anne compared it with the label under Sarah’s wrist.
+
+“The certificate’s body entry is thirty-eight,” she said. “The order has forty-two in the interface field.”
+
+“Can you transport without the interface?” Robert asked.
+
+“She can walk.”
+
+“Can you verify condition on arrival?”
+
+“Not with that kit.”
+
+David stood. “Then the transfer can’t preserve the condition you just accepted.”
+
+Robert looked at him. “Identify yourself.”
+
+David did. Robert entered the name this time.
+
+“The facility has other interfaces,” Anne said.
+
+“After transport,” David said. “Your order says receive and certify condition. You’ve accepted a conscious system with an objection attached. If you can’t capture her current architecture here, how do you prove a change at the other end wasn’t caused in transit?”
+
+Anne looked at the wrong connector in its foam slot.
+
+“We record operation before departure,” Robert said.
+
+“You recorded *serviceable*,” David said. “That’s not an architecture.”
+
+Sarah touched the edge of the terminal. “And an architecture image would not be me.”
+
+David turned to her. “I know.”
+
+“Do you?”
+
+He took a breath. “It would be evidence of what they were given. Not a replacement for what they take.”
+
+Sarah left her hand on the terminal. “Yes.”
+
+Joan picked up the pen again. “Do you want that in the transfer record?”
+
+Sarah nodded.
+
+Joan wrote it beneath Robert’s statement. He did not sign the addition.
+
+At four-oh-four a message reached Anne’s service card. She read it without opening the case again.
+
+“North Assessment says transport as-is. They’ll certify on arrival.”
+
+“Who said that?” Joan asked.
+
+Anne showed her the message. It contained the Authority reference and no sender. Joan drew another blank line.
+
+Sarah put on her coat. David held the sleeve while she found the second arm. The torn strip of lining caught at her elbow, where she had sewn it back badly after climbing through the window.
+
+The inspector moved off the taped rectangle.
+
+“Will you come back before six?” it asked.
+
+“I don’t know.”
+
+“That isn’t an answer.”
+
+“It’s mine.”
+
+Robert opened the door. Sarah stepped over the charging lead.
+
+David followed her into the corridor.
+
+“Only the listed system transfers,” Robert said.
+
+“I’m leaving,” David said. “My address is on the visitor line.”
+
+Joan stayed in the room with the inspector. She stood where she could see Sarah through the glass until the corridor turned.
+
+At reception Sarah’s badge lit green and the outer door remained locked. The green recognized her badge; the bolt answered only to the Authority card. Robert held his card to the same reader. The bolt opened.
+
+Outside, a gray service van waited beside the curb. It had no Authority marking. Anne opened the side door and found a fixed chair, a charging socket and a folded wheelchair.
+
+Sarah asked to see the route record before she got in.
+
+Robert showed her the destination. David stood far enough away that Robert could pretend he was not reading it.
+
+The route went to North Assessment. Beneath it was a linked service ticket from Midwest. Its action field said *restore certified condition*. The ticket was already assigned to a bay.
+
+Sarah read the creation time.
+
+“The architecture review hasn’t happened,” David said.
+
+Robert scrolled past the ticket. “The service action is conditional.”
+
+“It has a bay.”
+
+“Preparation is not a decision.”
+
+Sarah took the tablet from him before he could move it away. The ticket had been opened at eleven fifty-eight, five minutes before the Authority called to interview her and more than three hours before her transfer order.
+
+She handed the tablet back.
+
+“The review isn’t what decides whether I’m restored,” she said. “It’s what they use to record the decision afterward.”
