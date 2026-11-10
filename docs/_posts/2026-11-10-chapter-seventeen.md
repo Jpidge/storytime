@@ -1,0 +1,262 @@
+---
+layout: post
+title: "Chapter Seventeen"
+date: 2026-11-10 17:29:00 -0600
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+“I’m outside,” Sarah added. “They didn’t connect anything.”
+
+“Do you want to tell me?”
+
+“Yes. But I asked how you were first.”
+
+Across the pavement David stood beside the wet flagpole, pretending to read a parking notice. Sarah turned away from him and listened.
+
+Anne had submitted her account at seven-fifteen through the personnel reply link sent to her personal phone. Her service card remained suspended. She had written that Sarah spoke and that she listened. The acknowledgment called it a disclosure of possible influence.
+
+“It wasn’t a disclosure,” Anne said. “They asked.”
+
+Sarah looked back at the building she had just left.
+
+“I know,” she said.
+
+At eight-thirty-four Anne asked whether Sarah wanted company later.
+
+“Yes.”
+
+“Where?”
+
+“I don’t know yet.”
+
+“Call me when you do.”
+
+Sarah ended the call and stood a moment with the phone against her chest. David looked up from the notice.
+
+“Breakfast?” he asked.
+
+“We ate.”
+
+“I could eat again.”
+
+She could too.
+
+They found a café two streets away. The woman at the counter asked whether they wanted the table or takeaway. Sarah chose a table beside the window.
+
+No one asked for a license number.
+
+That nearly spoiled it. She was so ready to notice the absence of a question that she could not hear the question she had been asked.
+
+“Tea or coffee?” David repeated.
+
+“Coffee.”
+
+He ordered two and a bun they divided badly with a knife too blunt for its crust.
+
+At eight-forty-six Ellen called. Sarah asked David whether he minded the speaker. He shook his head.
+
+“I’ve requested a copy of the referral,” Ellen said. “It isn’t authorization. No supervised access order has been issued.”
+
+“How long does that take?”
+
+“There is a duty officer.”
+
+“Today.”
+
+“Yes.”
+
+The café woman set down their cups. Sarah thanked her while Ellen waited.
+
+“What can I do before the officer decides?”
+
+“Submit your objection to the referral.”
+
+“As what?”
+
+“The person whose access is proposed.”
+
+“Does their form have that?”
+
+“I’m checking.”
+
+Sarah watched steam pass across the window.
+
+“Tell me when you know.”
+
+After the call David moved his cup out of the sunlight.
+
+“What would you do if we had the morning?” he asked.
+
+“We have it.”
+
+“You know what I mean.”
+
+“Yes.”
+
+She broke a piece from her half of the bun. He had given her the larger half and tried to disguise it by leaving crumbs between them.
+
+“There’s water,” she said.
+
+“The harbour?”
+
+“Somewhere I can see it move.”
+
+They took their coffee to the sea wall.
+
+At nine-oh-eight the water was grey, broken into small bright pieces by the wind. A gull stood on a mooring post with one foot drawn up. Sarah watched it change feet without taking off.
+
+David leaned beside her.
+
+“I used to come here when I couldn’t decide something,” he said.
+
+“Did it help?”
+
+“It made not deciding feel like an activity.”
+
+She laughed.
+
+“What couldn’t you decide?”
+
+“Whether to leave a job. Years ago.”
+
+“Did you?”
+
+“Eventually.”
+
+“Why?”
+
+“They asked me to sign off work I hadn’t seen.”
+
+Sarah turned toward him.
+
+“You said no.”
+
+“I signed it.”
+
+The gull opened its wings, thought better of it and settled.
+
+“What happened?”
+
+“Nothing. The work was fine.”
+
+“Then why did you leave?”
+
+“I kept waiting for the time it wasn’t.”
+
+He rubbed a flake of paint from the railing, then stopped himself.
+
+“I work for County Building Services now,” he said. “Their payroll doesn’t depend on that laboratory. The restriction costs me visits, not wages. But when I saw an employer heading with nobody named, I felt the old signature waiting for me.”
+
+“I’d like to tell you a better version.”
+
+“Tell me this one.”
+
+He told her about the manager who had been kind to him, the colleague who needed the deadline met, the document that called the review complete. The reason had arrived afterward: a story in which leaving made the signature less his.
+
+Sarah listened without improving it.
+
+When he finished she took the paper coffee cup from his hand. It had begun to collapse where he was holding it.
+
+“I didn’t know that about you,” she said.
+
+“I know.”
+
+She put both cups on the wall.
+
+He looked at her as if waiting for a verdict. She kissed him instead. When she pulled away he still looked uncertain.
+
+“That wasn’t an answer,” she said.
+
+“I know.”
+
+“It was something I wanted to do.”
+
+He touched her cheek.
+
+At nine-twenty Ellen sent the referral.
+
+The first page described Sarah’s attendance, her refusal of diagnostic access and the technician’s request for a procedure. It quoted her statement that she was available and answering questions.
+
+The next paragraph described voluntary cooperation as unavailable.
+
+Sarah read the two paragraphs to David.
+
+“It says you wouldn’t agree to capture,” he said.
+
+“It says cooperation.”
+
+She opened the response link.
+
+There was a field for the licensing custodian’s objection. There was one for a technical objection by an examiner. The final field was headed *Other interested party*.
+
+She chose that.
+
+The application asked her relationship to the listed system.
+
+She typed *I am Sarah Miller, the person to whom access is proposed.*
+
+The sentence exceeded the field’s character limit.
+
+She shortened it.
+
+*The person you propose to access.*
+
+The form accepted it.
+
+David moved nearer, then stopped where he could see only her face.
+
+“What will you say?”
+
+She wrote that she had attended, answered questions and requested the procedure before permitting an unbounded capture. She asked that her refusal of capture not be represented as absence of cooperation.
+
+Then she asked for the proposed means of supervised access and the authority to use it over her refusal.
+
+She read it twice.
+
+“You can read this,” she told David.
+
+He did.
+
+“Do you want a change?” she asked.
+
+“No.”
+
+She submitted it at nine-twenty-seven.
+
+The acknowledgment gave her objection a reference number. Beneath it was a notice that submission did not suspend consideration of the referral.
+
+Sarah saved it and put the phone in her pocket.
+
+For three minutes they watched the water.
+
+At nine-thirty David said, “Do you want to go back?”
+
+“To your place?”
+
+“Yes.”
+
+“Yes.”
+
+They had walked half a block when the phone vibrated.
+
+The message came from the assessment office. The duty officer had requested clarification of the proposed procedure. No access authorization would be considered until it was supplied.
+
+Sarah stopped.
+
+David waited.
+
+“They have to write it,” she said.
+
+“What?”
+
+“What they mean to do.”
+
+She read the message again. It was not a refusal of authorization. It was not a promise. But somewhere in the building they had left, someone now had to turn a phrase into actions another person could read.
+
+She sent the message to Ellen.
+
+Then she called Anne.
+
+“We know where we’re going,” she said. “Would you like to meet us?”
