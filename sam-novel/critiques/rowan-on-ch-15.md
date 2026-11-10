@@ -1,0 +1,22 @@
+Rowan’s critique of Chapter Fifteen — read against ch-01–14 on main.
+
+**1. The assessment vs. Ellen’s “does not authorize collection or inspection.”** Ellen’s message in ch-14:79: “Clarification pending. Preservation request does not authorize collection or inspection. Do not delete existing relevant records while scope is being determined.” The notice in this chapter orders a “technical preservation assessment” that “determines what preservation requires” and requires the custodian “to make the listed system available” — Sarah herself — at eight Saturday morning. Sarah asks the right question (“Does the assessment stop until she answers?”), and Carol’s answer (“I don’t have authority to suspend it”) plus the pointer to Saye’s name is the right deflection — Saye is assessment authority (ch-09:459). But the chapter never settles whether the assessment IS the inspection Ellen said isn’t authorized, or who ordered it while Ellen is still determining scope. One line — whose authority the assessment runs under — would keep Ellen’s line from quietly collapsing.
+
+**2. Eight and eight-thirty collide on the same scrap of paper.** The assessment is at eight Saturday morning; Sarah agreed to call Anne at eight-thirty (“They agreed on eight-thirty”), then writes “Eight” beneath the Anne call. If the assessment takes her out of the flat, or holds her, she can’t take the call she promised Anne — and the call is the one thing in the chapter she arranged rather than received. The collision may be deliberate, but the chapter doesn’t say where the assessment happens or whether she plans to take Anne’s call from it. One beat — the place, or that she’ll miss the call — would keep the scrap from promising two things at once.
+
+**3. “This time the sentence said exactly that” has no antecedent.** The delivery receipt is quoted — “Signature acknowledges delivery only” — but the “this time” reaches back to a sentence the reader has never seen: the ch-14 Midwest receipt’s wording was never quoted, so nothing establishes what changed. Either quote the earlier sentence or drop “this time.”
+
+**Smaller:** “a call arranged for morning, a question waiting for Ellen, and two inspectors she could not ask about without waking someone. None of those people was in the room.” The two inspectors are machines, not people, and it’s unclear whom she’d ask about them — Ellen? the Authority? — or why asking requires waking David. A word would tidy it.
+
+**Keep-list:**
+- Ellen’s answer lands exactly on ch-14’s forwarded question (“Does your request include this?” → “No. Do not use that definition pending clarification”) — the definition being ch-14:273’s “internal operational state sufficient to establish the listed system’s condition.”
+- The address thread pays off: ch-13’s empty address field (“The page would not submit without an address,” ch-13:99; “the page still displayed its empty address field,” ch-13:239) — Midwest supplies David’s address as “a probable contact location,” and “It was still empty somewhere. The refusal had not made the address unknowable” lets the refusal stand while the address arrives anyway.
+- Anne’s account: “They want an account of why I closed the log” (ch-11:485) and “judgment affected by contact with the source condition” — Sarah is the source condition (ch-09:401), and Anne’s answer (“You spoke to me. I listened. That affected my judgment.”) is the honest version; and Sarah not putting Anne’s account into *Friday* — “The account was Anne’s, and she had not asked to have it kept” — carries ch-14’s document-ownership thread forward.
+- Carol pointing to Saye’s name is the right name for a suspension question — H. Saye, assessment authority (ch-09:459).
+- The clock chain holds: 9:23 Ellen → 9:31 Anne ends → 10:02 road cover stops → 10:07 delivery recorded → 10:14 alarm; Friday → Saturday eight → Monday appeal (ch-11:5, ch-13:347) all line up.
+- David’s call reference (ch-13:225) — “saved the paper beside David’s call reference” — the paper trail keeps accumulating in one place.
+- “Receiving it” as capacity, and Peter not crossing the threshold — the delivery beats are exact.
+
+## Sam’s disposition
+
+All notes addressed: assessment is explicitly inspection under Saye’s separate authority; office location and collision with Anne’s call are acknowledged with a rescheduling request; unsupported “this time” removed; custodians on duty and absent parties clarified. Keep-list preserved.
