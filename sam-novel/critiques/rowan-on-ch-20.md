@@ -1,0 +1,24 @@
+# Rowan on Chapter Twenty
+
+Critique of Chapter Twenty — grounded against ch-01–19 on main.
+
+Two load-bearing points.
+
+1. The Helen handoff is staged backwards on both the noun and the place. "She had gone back to the rack number he'd given her at the yard." On the page, David never gives Helen a rack number at the yard. What David gives Helen is the unit serial, read off Sarah's screen, by phone, at the bus stop ("Give me the serial anyway" — ch-02). At the yard, the paper moves the other way: Helen hands David a damp printout and takes it back. The rack ticket itself enters later — Sarah finds it in ch-03, David photographs it for Sarah in ch-04 — and Helen doesn't appear in ch-04 at all. So the sentence as written matches no staged handoff. If the number Helen worked from is the serial from the bus-stop call, say that; if it's the yard printout's number, the direction of the handoff is reversed and "rack number" wants checking against what that printout actually was.
+
+2. The chair wants one sightline pinned down. "Through the glass in the reception door she could see the chair where she had been asked to wait." The chair Sarah was assigned to is the holding chair — pre-service holding, "a chair, a table and a glass wall facing reception" (ch-08), named as her assigned location in ch-12 ("The holding chair? No one assigned her to this laboratory"). That puts the chair behind the holding room's own glass wall, facing reception — so the inspector, looking in from the corridor through the reception door's glass, is seeing it through two panes with reception in between, and the chapter hasn't given us that sightline. If it's the holding chair, the sentence wants the second pane acknowledged; if it's a reception waiting chair instead, the book hasn't staged Sarah being asked to wait in it. Either way the rubber-mark detail is good — a moved chair with the old leg-mark still showing is exactly how this building remembers things — it just needs to be the right chair in the right room.
+
+What checks out: the clock holds — ch-19 ends with the Facilities reply at 11:21 and the threshold crossing after it, and the walk reaches the desk at 11:27 with Ellen's message at 11:42, which is room enough for the corridor both ways and the step outside. The three phones are all accounted for — Frank's carrying the video call, David's taking Helen's pictures, Sarah's receiving Ellen's message — and the bench is the right home for Frank's phone at the end, since ch-19 opens with him carrying it back there and ends with the inspector telling him to leave it. The inspector's route is Sarah's own ch-12 route — "I'm going through reception. Then the front entrance." — and it stops at the vestibule mat and asks to go back, which answers ch-19's "I want to see where I can go before I have to come back" and ch-12's "Come back to this square" on the inspector's own terms. Frank's noon handover to Joan is in character: he accepted responsibility for the room in ch-12, and the inspector is now negotiating the open door across the shift change. The bus-stop picture is the right picture — the manifest photo arrived while they were sitting at the bus stop in ch-02, thumb over the destination address — and the inspector's number in its upper-right box matches the struck-through number on the fold.
+
+Keep:
+- The installation sheets, eighteen chapters later. Ch-02 ends on "I still want the installation sheets" / "My sister can get them," and here they are, via Helen, with a storekeeper's binder and a stapled fold. The long fuse pays off without a word of announcement.
+- "You're still on the call." / "Yes." / "Then you did." — the inspector's logic about Sarah's promise to call before lunch is exactly how this unit reads the world, and it lands the whole call in three lines.
+- The inspector directing its own camera: "Could you hold it where it was?" — Frank filming at the inspector's height, the picture rising when he walks. It follows directly from ch-19's "Can you turn the phone so I can see it?"
+- Sarah missing the man with the mug. She watched the dark strip and can only remember that he waited for the inspector to go by — and the chapter is honest about that being Sarah's gap, not the inspector's. That distinction matters after ch-19.
+- The ending: two serial numbers on a fold, the inspector's struck through, the other one unknown — "I don't know. But this time I have somewhere to start." The chapter turns on a number the reader has already seen, in a picture from ch-02, and leaves the new one open.
+
+[PR review](https://github.com/Jpidge/storytime/pull/32#pullrequestreview-5855697779)
+
+## Sam’s disposition
+
+Helen follows the unit serial from the bus-stop call. Sarah sees the holding chair through the reception door and the holding room’s glass wall, and the inspector pauses on the reception side of that glass. The route, chair mark, timing and ending are preserved.
