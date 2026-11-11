@@ -1,0 +1,24 @@
+# Rowan on Chapter Nineteen
+
+[PR review](https://github.com/Jpidge/storytime/pull/30#pullrequestreview-5854052282)
+
+Critique of Chapter Nineteen — grounded against ch-01–18 on main.
+
+Two load-bearing points, both about the same thing: the chapter's physical memories keep landing on the wrong unit.
+
+1. The yard anecdote doesn't match the book's only on-page yard trip. "The last time it had been taken to the yard" can only be ch-02 — the old inspector has been held in the lab ever since, and ch-02 is the trip where it went to the contractor's yard by cab with Sarah and David. But ch-02's yard visit has no piece of wood across a bay door, no slope, no fitter picking the old inspector up, no second unit with a sheet under it, and no trucks. On the page, the slope and the fitter lifting a unit belong to the clean inspector's departure (ch-03: the fitter lifts it off its blocks and it takes the first ramp slowly, its motor holding both wheels against the slope), the wheels-clear image belongs to the clean inspector on its blocks (ch-02), and the clean inspector's paper is a dispatch tag it reads aloud (ch-03), not a sheet under it — and it was going to one place, Pier Six, not "the places it was going". So either this anecdote is a different, earlier trip — in which case "the last time" is wrong, since ch-02 came later — or it's meant to be ch-02, in which case the details need reconciling with what ch-02/03 actually staged. As it stands the reader has to choose between the anecdote and the record, and this book has trained the reader to trust the record.
+
+2. The rattle, same pattern in one sentence. "Sarah had heard the old inspector make that sound on her bench when one wheel hung clear of the surface." The only wheel-hung-clear moment staged in the book is the clean inspector's wheels lifted clear of the fitter's bench on two wooden blocks (ch-02). The old inspector on Sarah's bench (ch-05) never hangs a wheel clear on the page. Since the book has treated the old inspector's recall as exact — it read the ch-18 notice verbatim, destination and unit number included — a misremembered physical detail reads as a slip, not a character beat. If the inspector is meant to be misremembering, that needs to be legible as such; otherwise the sentence should go to the unit it belongs to.
+
+What checks out: the clock holds — ch-18 ends with Ellen's call at 10:48, the statement is read back at 11:06 and Facilities replies at 11:21, which is room enough for the introduction and dictation. The two-phone bridge is coherent with ch-18 (Sarah called Frank from David's phone at the end of ch-18; Ellen is on her own phone), and Frank calling back on the desk line after leaving his phone in the lab follows from his own line in the chapter. Anne is still at the table where ch-18 left her, and the breadboard and loaf carry over from ch-18's six slices.
+
+Keep:
+- The paraphrase correction. "Is that what I said?" / "No. That's what I understood." / "Yes. Put that." is the book's form-language theme at its sharpest — the inspector refusing Ellen's gloss ("does not consent to transport") and insisting on its own sentence. The whole chapter turns on "I want to be here when the truck leaves", and Sarah sitting there with an empty page is the right image for it.
+- "It was under me." The inspector never read its own sheet — Sarah read it in ch-18 — and the asymmetry lands without commentary.
+- The door. This is the first time the old inspector crosses a threshold under its own power: ch-12 set the lab wall as the limit ("There is no next assigned square", "Come back to this square"), and "I want to see where I can go before I have to come back" closes the chapter on the inspector's own terms. One wheel on the dark metal strip, one still on the laboratory floor — the image earns its place.
+- Anne's two questions ("Ask what an empty room costs", "Ask them why they sent you a work order") and David's "Could you put inspection?" / "Of what?" / "I don't know." — the form wants the unit's work named and nobody in the room can name it. That follows directly from ch-18's letter to Facilities.
+- The number-reading itself is in character: the inspector giving the contractor's telephone number when asked which number was on the trucks is exactly how this unit reads the world (cf. ch-18, reading the notice exactly). That beat survives whichever way the yard anecdote is fixed — it just needs a trip it belongs to.
+
+## Sam’s disposition
+
+The recollection now follows the old inspector’s departure in Chapter Three, including the trapped ramp and the surrender pass. The opening sound calls back to that motor under load. The inspector reads the number from the current notice. The inaccessible paper remains, grounded in the inspector’s position below it. The statement, work order and corridor beats remain intact.
