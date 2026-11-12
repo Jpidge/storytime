@@ -1,0 +1,154 @@
+---
+layout: post
+title: "Chapter Twenty-Two"
+date: 2026-11-12 15:41:00 +0000
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+“Yes,” Sarah said. “There’s the harbor.”
+
+“Can you see it?”
+
+“Not from here.”
+
+The voice on the phone waited. Sarah wondered if she had given it two answers that didn’t fit together. Then she heard a noise like a hand brushing grit off a table.
+
+“I can’t see mine either,” the voice said. “I’m inside.”
+
+David slid the receipt toward her. Under the serial he had written the word *gate*. There was room beside it for the name the man had called out. Sarah left that space alone.
+
+“What do you do when you can see it?” she asked.
+
+“Depends which way it’s moving.”
+
+“Right now?”
+
+“I’d have to go and look.”
+
+The man at the gatehouse said something she couldn’t hear. The voice answered him first, close enough that Sarah heard every word.
+
+“She asked about the water. She didn’t ask me to open anything.”
+
+The man came back to the receiver. “Sorry. Usually when someone calls about the water they want me to do something.”
+
+“I might,” Sarah said. “Could you tell me what you called it just now?”
+
+“Betty.”
+
+“Is that what she calls herself?”
+
+“Ask her. She’s still here.”
+
+Sarah heard him put the receiver down again. The sound behind it had steadied, low enough that she could feel it in the heel of her hand where it touched the phone.
+
+“Betty?” she said.
+
+“Yes,” said the voice. “I didn’t hear your name either.”
+
+“Sarah.”
+
+“Sarah what?”
+
+“Miller.”
+
+“Do you work on the water?”
+
+“I used to go out to the piers.”
+
+“Then you know what I mean.”
+
+Sarah almost said yes. “Tell me anyway.”
+
+There was a scrape at Betty’s end. She was turning, or the man was moving the phone. Sarah had to ask which.
+
+“He’s holding it out for me,” Betty said. “I was looking at the window. Sometimes the top is going one way and the grass underneath is going the other. If somebody calls and says it’s coming in, I ask what they saw moving.”
+
+“What if they can’t tell you?”
+
+“I go out. It takes longer.”
+
+Across the table David wrote *south gate* on the receipt. He waited with the pen above the paper. Sarah could see what he wanted to ask. She wanted to ask it too. She had called a number from a ledger and found someone she would have liked to meet even if the ledger had never existed.
+
+“Could I come and see the gate?” she asked.
+
+“Which part?”
+
+“Where you look at the grass.”
+
+“You’d have to ask Bill about coming in. I can show you the grass.”
+
+Bill took the receiver. Sarah heard him breathe directly into it before he spoke.
+
+“Are you from the contractor?”
+
+“No. Helen gave us the number. She does accounts for one of the companies that services the gates.”
+
+“Right.”
+
+Sarah waited for him to ask what she was from. Instead he asked whether she had a car. The bus stopped at the road above the gate and there was no footpath for the last quarter mile.
+
+“The car’s out front,” David said. “I’ll drive.”
+
+“Can you come before two?” Bill asked. “After that I’ve got a man coming to change the reader.”
+
+“The door reader?”
+
+“The one that takes her number. The new one won’t take the old numbers. I’ve got a sheet for what to put in when they don’t match.”
+
+Sarah turned the grocery receipt so she could see both serials upright.
+
+“Has he told you which number to use?”
+
+“He types the old number from my book into his service tablet. Whatever comes up is what he puts on her card. They told me it would fix itself.”
+
+She put a finger over the number that had been struck through on Helen’s photograph. The other one stood alone on the paper in front of her. In the current system it led straight back to the lab.
+
+“Could you ask him to leave the old reader connected until we get there?” she said.
+
+Bill took a moment. When he answered, his voice was lower.
+
+“I can ask him to wait. What do I tell him I’m waiting for?”
+
+“Someone to check that the number he enters still opens this gate for Betty.”
+
+“Does it have to be her number?”
+
+“I don’t know yet.”
+
+He said he would ask. Sarah could hear him start to move away. Then he came back and asked her to hold. Betty wanted the phone again.
+
+“Is the reader the thing at the low door?” Betty asked.
+
+“Yes,” Bill said, from beside her. “Down the steps from here. The little door in the fence, out to the grass.”
+
+“I can show you that too,” she told Sarah.
+
+When the call ended, David stood and took his keys from the shelf. Sarah stayed at the table.
+
+“Are you going to call Helen?” he asked.
+
+“In the car. I need a picture of both numbers on one screen.”
+
+He took a photograph of the receipt. Sarah looked at it and shook her head. He handed her the phone. She opened Helen’s picture with the fold and put the manifest beside it. There was no way to enlarge both without losing the place on the page where one number had been replaced by the other. She sent herself the original photographs separately.
+
+Anne brought Sarah her coat.
+
+“Are you coming?” Sarah asked.
+
+“Can I?”
+
+Sarah held the coat while Anne went to get hers. On the way out she stopped at the table and put the grocery receipt in her pocket. She could still feel the little ridge where David had pressed too hard with the pen.
+
+Downstairs David had left the front door open for them. On the step Sarah called the gatehouse again. Bill answered at once.
+
+“I forgot to ask,” she said. “What happens at two if nobody comes?”
+
+“Oh, he’ll come,” Bill said.
+
+“I meant to the gate. Can she still get back in after he changes it?”
+
+For a second she thought he hadn’t heard.
+
+“At two,” he said, “she goes out to look at the grass.”
