@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Chapter Twenty-Five"
+date: 2026-11-13 00:10:12 +0000
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+Bill held the little door while the installer put the screws back. One went in at an angle. He took it all the way out and started it again with his fingers.
+
+“Try now,” he said.
+
+Betty went round to the grass side. She held her bent card flat against the old reader. Bill let go of the door. Sarah heard the click before she could see Betty’s hand come away from the reader. The door opened far enough for Betty to put her foot through.
+
+“Did it put anything on the screen?” Betty asked.
+
+The installer looked down at the tablet. “This one doesn’t send me anything.”
+
+Betty came in, tucked the card under her arm and wiped her shoe on the step. “It still lets me back.”
+
+David had stopped on the landing beside Anne. He was looking at Sarah’s phone over her shoulder. She made the photograph larger until the line from the tablet filled the screen.
+
+“Is that the pier you worked on?” he asked.
+
+“Yes.”
+
+“Could they have called this gate Pier Six once?”
+
+“No. Pier Six is across the harbor.”
+
+Sarah looked at the gatehouse book. Anne had left it open to the page with the number. The paper was curled where the book had been held down by her heel.
+
+“Could you hold this flat?” Sarah asked her.
+
+Anne put a finger on each corner. Sarah took the picture. Then she called Helen, and while it rang she laid the grocery receipt across the open book, low enough that the name was still visible.
+
+“Can you read me the line?” Helen asked.
+
+Sarah read it out, the time and the number and the name. “Pier Six,” Helen said. Then she asked Sarah to wait. Bill started to close the book. Anne held her fingers where they were and he stopped.
+
+“Is your man still there?” Helen said.
+
+Sarah put the phone on the landing and turned on the speaker. The installer had packed all but the tablet and the marked card. He came up when Sarah called him.
+
+“Can you tell me whether that line came from the reader or the job sheet?” Helen asked.
+
+“The line comes from the test. The name comes from the job.”
+
+“Would you open the job for me?”
+
+He stood with one foot on the landing and one below it. Sarah could see the screen over his wrist. When he touched the line it opened into a page with a space for a signature. The name was printed above the space. It was still Pier Six.
+
+“That’s what I’d be signing?” Bill asked.
+
+“It just says I was here.”
+
+“Where does it say you were?”
+
+The installer read the name again. He went back a page and opened the address. Sarah could see the road they’d just driven down, with the turn where David had missed the bus stop. “I can leave a note,” he said.
+
+“Can you leave the signature empty?” Bill asked.
+
+The installer touched the back arrow. The white space went away. He said he could save the visit unfinished. He’d have to tell the office why.
+
+“Tell them what happened,” Bill said. “The card gave you a green light. It didn’t lift the latch.”
+
+The installer typed that. Sarah watched him take out the words *door released*, which had appeared when he picked the test from a list. “Put the name in too,” Sarah said. “The job says Pier Six. We’re at South Gate.”
+
+The installer added both names and read the whole note back to Bill before he saved it.
+
+Helen was still on the phone. “Would he give you the job number?”
+
+The installer read it to Sarah. She wrote it on the back of the receipt. There was a soft place in the paper where it had been folded. She moved the pen down to keep from putting it through.
+
+“Will that number stay the same if they change the name?” she asked.
+
+“Yes,” he said. Then he looked back at the tablet. “It ought to.”
+
+Betty was standing on the bottom step. Sarah had thought she’d gone inside. The bent card was back under her arm.
+
+“Will he come back?” Betty asked.
+
+Bill said he expected so. He would ask them to call first.
+
+“Could you tell them to come after I’ve been out?”
+
+Bill went up to the book. He turned to the page after the one Anne was holding and wrote the request at the top. Then he asked Betty what time she’d like him to put.
+
+“Give me till half past two,” she said. “If the water’s up I’ll have to go the long way.”
