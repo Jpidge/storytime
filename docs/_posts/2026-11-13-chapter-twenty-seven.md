@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Chapter Twenty-Seven"
+date: 2026-11-13 06:28:06 +0000
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+Helen asked if Sarah was still at the gate.
+
+“At the top of the road.”
+
+“Can you go back down? I’ve got two addresses. One is where you are, and one is where they send the invoice.”
+
+David put the key back in the ignition. Sarah put a hand on his sleeve before he could turn it.
+
+“Read me the other one,” she said.
+
+Helen read the first line. It was a post office box. Sarah waited for a street, but Helen had reached the end of the address.
+
+“Who collects it?”
+
+“There’s a name here. Let me check what it belongs to.”
+
+Across the road the bus had come into view. Anne sat up to watch it. It slowed when it got to the post, then went on without opening its doors. “You can see the driver looking at the post,” Anne said. “He can’t see us in here.”
+
+Behind it, on the lower road, Bill was walking up toward the car with the gatehouse book held shut against his chest.
+
+Sarah got out. He stopped a few feet from her and looked uphill, where the van had gone.
+
+“Did he leave you a copy?” he asked.
+
+“Of the job?”
+
+“Of what I said.”
+
+Sarah had the picture with the dash in it. She had the one of the tablet before he saved the note. She opened her mouth to tell Bill she had pictures, then took the receipt out instead. The pictures showed what the screens had said. Neither had his words.
+
+“I’ve got the number he gave us. Helen can see something attached to it, but she can’t tell what.”
+
+Bill looked at the receipt without taking it. “Can she see what I said?”
+
+“Not yet.”
+
+He set the book on the roof of the car. David reached out through the window to steady it. Bill opened it to the page Anne had held flat. The wind caught the loose corner, and he laid his whole hand across the old number.
+
+“I should have written it here,” he said.
+
+Sarah took the pen from her pocket and gave it to him. He turned to the next page. Above the request about tomorrow he wrote the date and the time of the test. He asked Sarah to check the time against the photograph. She held up her phone beside the book. He had put two. The tablet photograph showed three minutes past two.
+
+“Two was when he started,” Bill said. He put the three minutes in a space to the right. Then he wrote what he had told the installer, stopping after *green light* to ask if she could remember the rest.
+
+“You said it didn’t lift the latch.”
+
+He wrote that. Below it he wrote *South Gate* and *Pier Six* and joined them with a line. At the end of the line he put a question mark.
+
+Helen called Sarah’s name from the phone inside the car. Anne handed it out through the window.
+
+“The box belongs to a contractor,” Helen said. “It says Hale Marine Services on the account.” “I can get their dispatch number. Do you want me to ask them to send someone?”
+
+Bill capped the pen. “Ask if they can send us what he wrote.”
+
+Sarah held the phone closer so Helen could hear him.
+
+“I can ask for the visit sheet,” Helen said. “What name do you want on the request?”
+
+Bill opened the book again. His hand went straight to the page he’d just written on. He read her the name at the top of the page before it, then the job number from Sarah’s receipt. Helen read both back to him. He waited until she had finished before he took his hand off the book.
+
+“Put my number down,” he said. “If they call after two tomorrow I’ll be in.”
