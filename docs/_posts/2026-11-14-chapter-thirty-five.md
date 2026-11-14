@@ -1,0 +1,82 @@
+---
+layout: post
+title: "Chapter Thirty-Five"
+date: 2026-11-14 01:09:42 +0000
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+Betty had a pencil by the telephone, with a piece of string through the hole in its end. The other end was tied to the leg of the table. Anne picked it up and found she could reach the wall with it.
+
+“What do you write on?” she asked.
+
+“Whatever I’ve got.”
+
+Betty took an envelope from under the telephone. There was a sum on the back and a name with a line through it. She turned it so Anne could use the flap.
+
+Sarah’s phone rang. It was Helen.
+
+“I’ve got the booking open,” she said. “I opened it from the original appointment email. The picture’s in the other thread.”
+
+“Can you see the address?”
+
+“I can see the road. Let me scroll across.”
+
+Sarah laid the receipt on the table. Betty held the envelope flat for Anne, who was drawing two little boxes on the flap.
+
+“Here it is,” Helen said, and read the address. She said the house number twice. The second time she said it more slowly, as if she were giving it to someone who couldn’t see her point.
+
+“Twenty-six,” Sarah read back. She checked it against Betty’s number and wrote it in the space she’d left. “Is that on the booking you started with?”
+
+“Yes. The old reference is at the top.”
+
+“And the replacement?”
+
+“It’s in the email. I haven’t put it in here.”
+
+Sarah wrote *original reference still on booking* next to the address. She put *replacement in email, use unconfirmed* underneath.
+
+Sarah asked if Helen could save the page as it stood. Helen said she could print it at work tomorrow. Then she said, “Wait. It says there’s a note.”
+
+Sarah kept her pen down on the paper.
+
+“It says to use the side entrance.”
+
+Betty looked up. “Side of what?”
+
+Sarah read the note aloud. Betty got up and opened the back door. From the kitchen Sarah could see the wall at the end of the passage and the hook where Betty hung her broom. There was no way through from the road.
+
+“They’ll come down next door’s path,” Betty said. “That’s what the meter man did.”
+
+“Can I put in a note?” Helen asked. “There’s a place for one under theirs.”
+
+Sarah asked her to read the label above the box. Helen moved the page back. “Instructions for the person attending.”
+
+“Ask Betty what she wants them to do.”
+
+Sarah put the phone on the table. Betty shut the back door and came to stand over it.
+
+“Come to the front,” she said. “Ring once. It takes me a minute to get there.”
+
+Helen read that back. Betty waited through the whole thing and said yes.
+
+“Can you see which instruction they’ll get?” Sarah asked.
+
+“There’s only a Save button.”
+
+“Send Betty’s words in the email first. Ask them to read back what the person coming will see.”
+
+Helen said she’d keep the booking open until she had sent it. Sarah waited while she typed.
+
+Helen called back while Betty was putting the broom away. Dispatch had read back the instruction as it now appeared on the visit sheet: front door, ring once, allow time for an answer. Helen asked them about the old note. It was still on the booking history. The visitor’s sheet had the front door.
+
+“Do we have to do anything at the side?” Anne asked after the call.
+
+Sarah had left room below the address for anything else Helen could read from the booking. She wrote the old instruction there, and under it what Betty had said. She put the time of the read-back beside Betty’s words.
+
+Anne turned the envelope over and used the pencil to write *ring once* on the blank half of the flap.
+
+“Is that for them?” Sarah asked.
+
+Anne pushed the envelope back under the telephone, with the flap showing. “It’s for us. In case we forget.” She pushed the envelope a little closer to Betty’s chair.
