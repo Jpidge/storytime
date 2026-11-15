@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Chapter Forty-Seven"
+date: 2026-11-15 02:40:18 +0000
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+Bill’s bench was in the back room, under a window that opened only as far as the handle of the vice. Anne tried to open it farther. Bill put a folded scrap of cardboard between the frame and the handle so it wouldn’t rattle.
+
+“Where do I put this?” she asked.
+
+He cleared a space for the timer. There were two pencils in a groove at the front of the bench. Anne picked up the shorter one and waited for something to pull it back. There was no string on this one.
+
+Bill opened the pad. The last page had a list of lengths on it. He turned to a clean page and wrote the date. Then he asked Anne to tell him what they had seen at Betty’s.
+
+“The timer’s dial went round. Your grey monitor showed zero.”
+
+“Zero watts,” Bill said. “That was on mine at Betty’s.”
+
+He wrote *grey monitor* on the first line and *bench meter* below it. Beside the first line he wrote *0 W*. He left the second line empty and gave her the pencil.
+
+The meter took a while to settle. Anne watched the dial on the timer until the pencil mark moved away from the arrow. Bill read the meter aloud.
+
+“Point three two watts.”
+
+“Do I put the zero in front?”
+
+“Put what you see.”
+
+She wrote *0.32 W*. The two lines took up less room than the date.
+
+“Is that nearly the number at Betty’s?”
+
+“It’s close,” Bill said. “This is still our timer.”
+
+He pulled the plug and Anne put her thumb beside the pencil mark without touching it. They waited a minute by the clock above the bench. The mark was still beside her thumb when Bill plugged the timer in again.
+
+“If you just looked at that,” she said, “you wouldn’t know we’d waited.”
+
+Bill turned the pad towards her. “Put the minute down.”
+
+At Betty’s, Sarah had left the picture open. Betty had copied *Startup* onto the printout beside her circle. Mo’s reply came in underneath it. Sarah read it out while Betty was rinsing the cups. Jo’s monitor took its time from the depot’s bench computer when they connected it for download. Mo’s reply gave no date for the connection. It had a battery to keep time between readings. If the battery ran flat, the monitor could start again with the wrong time. Mo could bring up the restart flag, but she couldn’t tell from that row whether the clock had kept running.
+
+Betty turned off the tap. “Can she tell if the battery’s flat now?”
+
+Sarah put her hands on the keys.
+
+“Ask what it said before they set it,” Betty said. “If they wrote that anywhere.”
+
+She dried the cups and put them away. When she came back, Sarah had three questions on the screen. She’d asked when they connected it, whether they’d tested the battery and whether anyone had written down the time on the monitor before the computer set it. Betty read it once and moved the chair so she could sit beside her while she sent it.
