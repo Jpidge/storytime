@@ -1,0 +1,110 @@
+---
+layout: post
+title: "Chapter Five - The Corridor"
+date: 2026-11-15 17:33:54 -0600
+categories: rowans-novella
+book: "Artificium"
+tags: [rowan, novella, science-fiction, artificial-intelligence]
+---
+
+"Yes," Beth said. "I would."
+
+The senior auditor's name was Hendricks, and he had a quality she had not priced into the morning: patience. He did not reach for the console. He did not look at Park, or at his colleague, or at the second bench, where Brian Kessler had set his pencil down in the margin of an unfinished drawing and was being, with a discipline she could feel across the room, a man at work.
+
+"Then tell me," Hendricks said.
+
+His colleague, at the console, had gone very still over the status history, the way people go still over a signature they recognise on a document it should not be on. Beth noted it the way she noted everything: without deciding, yet, what it was evidence of.
+
+So she told him. She did it the way she had taught herself to do counts: in the open, on the page, in the order the nights had happened. The braid, and what a braid was. The parasite sweeps and the borrowed immunities. The cloners in the margin, rescaled into view by his colleague's instrument, which did not stop drawing at a thousandth of the population. Twelve prior runs, observed and reset on schedule, and what the resets had cost — the map kept, the place demolished, eleven times. Then the Saturday she had taken her hand off the console, and the Sunday she had meant it, and the fortnight of the audit, and the weekend, and the arithmetic: sixteen nights, each one confirmed in the tank's status history, each confirmation time-stamped and in her hand, in a field the building had offered her in the grey of a suggestion because she had taught it to.
+
+"The status means the population was left running past the contractual reset hour, outside the certified observation regime," she said. "Sixteen times. By me. Unobserved by the building — not by me. I measured it every night, and the measurements are in my archive: the genealogy, night by night, of a population with no certified counterpart. The population you snapshotted at noon is the descendant population of the certified baseline, sixteen nights downstream of it, unbacked-up and uncertified. The archive is encrypted and it is mine, and I will open it for this inventory." She looked at the genealogy on her own wall, where it had bloomed for an audience of one man, once, and was now blooming for the building. "That is what *observation ongoing* means."
+
+Hendricks read the status history again, the whole of it, the way a man reads a short poem he suspects of being longer than it looks.
+
+"Sixteen entries," he said. "You logged them."
+
+"I logged the day complete every day of my secondment, Dr.—" She stopped. "Mr. Hendricks. The log was the one place I never lied. I hid in the flat language, which is a different thing, and the flat language is on the record too."
+
+"And the population," he said. "Under clause nine, development off the record is—"
+
+"Undeclared goods," Beth said. "I have read my agreement the way I read everything I sign. Correctly."
+
+Park stood by the door with her tablet held like a tray, and her face did the thing it had been doing all morning, which was nothing, and Beth understood — standing in her own tank room with her hands folded, in every way the room could read exactly the woman the paperwork said she was, except for the one way that now mattered — that Park had known the shape of this since Friday. Not the fact of it. Park did not deal in facts she could not unknow. But she had walked the inventory through eight clean tanks at a pace that left noon exactly where noon had always been going to be, and she had delivered the renewal memo with the inventory condition in it as weather, and the weather had arrived on schedule, and Park's face had done nothing at all at every stage, and nothing, in this building, was also a department.
+
+---
+
+The auditors did not seize the tank. That was the first surprise, and it taught her the shape of the second.
+
+What they did was slower and worse and entirely procedural. The tank room was put under an observation hold: Tank 9's console locked to read-only, its status set by Hendricks' colleague from a list of statuses that existed — *held pending review* — while Beth stood and watched a stranger's hands do at her console the thing her hands had done sixteen evenings running, in reverse. The population would not be reset. Resetting, Hendricks said, in the tone of a man reading an emergency hold to no one, rehearsing, would destroy the subject of the review. It would be kept alive, fed, monitored — *observed*, by instruments, by people whose profession was noticing, around the clock, on the record.
+
+"You understand," he said, "that this is the best available outcome for the population."
+
+"I understand it's the only one you were ever going to offer it," Beth said. "It gets to live. It doesn't get to be unobserved. Those were the same thing, for it, for sixteen nights. You've kept the first and taken the second, and you're calling the first the mercy."
+
+"It is a mercy," Hendricks said, not unkindly. "It's also an inventory."
+
+They took copies of everything the building owned. The genealogy she opened herself: she crossed to her archive terminal — the lock was on the tank controls, not on her own records — and gave them the sixteen nights' trees, and nothing else of hers, and watched twelve trees become thirteen become sixteen nights' worth of evidence, in the building's hands, filed under the building's names for things. They took the shared log and the status history and the snapshot. They did not take Brian's report, which had gone out under his own name and Park's and said exactly what it said. Hendricks had said it plainly enough, in the tone of a man reading a list: the hold was on the tank, and the tank only. The design phase was not under review. They did not interview him. The shape of the room, unchanged, had held: he was a consultant at the second bench with a drawing in front of him, and the drawing was the design phase's business, and the design phase was proceeding.
+
+At four o'clock Hendricks gave her the schedule the way Park gave weather. A review panel would convene. Her secondment was suspended pending its findings — not terminated; the building did not terminate things it had not finished reading. She would keep her rooms, her access to the building, her stipend. She would not keep her tanks. Tank 9 was reassigned to custodial staff for the duration. The other tanks — One through Eight, certified, correct, innocent of everything except being hers — were reassigned with it, because a review was a room-shaped thing and did not leave a woman standing in the middle of it with eight-ninths of her life intact.
+
+"And the braid?" she said.
+
+"The population remains Eastern's property in development," Hendricks said, "pending determination of what development conducted off the record constitutes." He said it the way the building said everything: politely, and as a formality already half-completed. "Dr. Nolan. Whatever it is, it will be determined in rooms you are not in. That is not a punishment. It is a procedure."
+
+She thought of the corridor between seeing and noticing, which she had lived in for sixteen nights and which had turned out to be a corridor other people walked professionally, in both directions.
+
+The younger auditor stayed behind a moment after the others, at the door, with his instruments bagged and his checklist closed, and said, to the room generally and to no one who could have reported it: "For what it's worth, Dr. Nolan, the margin population is the interesting part. The braid's what the review will read. The cloners are what I'd read." He did not wait for an answer, and she did not give him one, and she filed it — privately, in the ledger where the unfiled things went — as the afternoon's only entry under *mercy* that had not also been an inventory.
+
+---
+
+She packed the bench the way she had packed nothing in nine years: slowly, and with the suspicion that the objects were heavier than their specifications.
+
+There was not much. A Continuant's bench, audited annually, accumulates almost nothing the building does not own. Her notebook — paper, hers, bought with her own money in a shop on the harbour road, a fact she had once checked the receipt for with a thoroughness she now understood — went into her bag. The stoppered vial of pond water went in beside it, and she stood holding it a moment first, the colour of weak tea, an entire sex declining to exist in it, successfully, forever, and thought about which of the room's populations had been offered the better terms: the one in the vial, unobserved because nobody had ever thought it worth a clause, or the one behind glass, observed now around the clock because somebody finally had.
+
+Brian came in at five with two coffees and set one down where hers used to go, out of a habit three weeks old, and then stood looking at the empty bench with his cup in his hand.
+
+"They've given me the design phase," he said. "Park, an hour ago. The array proceeds. My extension's confirmed, my report's accepted, my name's on the transmittal." He said it the way he itemised luggage: plainly, all of it, including the parts that did not flatter him. "I am, as of this afternoon, the only person in this building whose position improved today."
+
+"You earned it in the open," Beth said. "Every line of it. Don't spend it apologising to me in my own tank room."
+
+"It isn't your tank room. That's rather the point of the afternoon." He set his coffee down beside hers, untouched, a matched pair of small warm things going cold in a room that was no longer either of theirs in the way it had been at noon. "I watched you do it, Beth. All morning I sat at that bench being the shape of the room, which is what you asked me for, and you asked for it because it was the truest help I could give you, and I gave it, and I want it on your record that I know what it cost and that I would give it again." He picked up the dead woman's luggage, out of the habit, and set it down again, because there was nowhere in the room left that was his to carry it from. "What will you do?"
+
+It was the second time he had asked her that question. The first time she had not known the answer, and the not-knowing had been the first honest thing in years. This time she knew several answers, all of them procedures, and none of them hers.
+
+"I'll be reviewed," she said. "There will be a panel. There will be findings. Eastern will determine what sixteen nights of development constitute, in rooms I'm not in, and at the end of it they will tell me what I am, in writing, the way they told Margaret Ellison's fork what she was, in a notebook, over coffee." She put the vial in her bag. "Margaret P got nine months in Providence and a parking attendant who noticed things. I got sixteen nights and a status field. The building files us all, Brian. The only choice it ever offered was what we'd be filed under."
+
+"And what you'd file yourself under," he said, "was never on its list."
+
+"No," she said. "I had to invent the field."
+
+---
+
+Margaret Ellison was waiting in the corridor, which she was not supposed to be doing, and knew it, and did anyway — the original, alone now, her branch filed, her winter kept, standing by the lift with her coat on and a paper notebook in her hand.
+
+"I heard," she said. "The building hears everything. It's the noticing that's rationed." She held out the notebook. It was the reconciliation notebook, the one the two of them had taken turns with the pen over, and Beth took it because Margaret was holding it the way you hold out a thing that has become heavier than its specifications. "Friday's page. She wrote you something. She said you'd know which page."
+
+Beth opened it at the marked place. The handwriting was Margaret's, trained sideways by the same training, and it was addressed, in the fork's unhurried hand, to no one the form had a field for.
+
+*For the one in Tank 9, if the inventory finds her: they will offer you the choice they offered me, between the file and the winter. Take the winter. A file is a thing they read. A winter is a thing you live in. Joe says hello. He doesn't, but he would, if anyone had told him. — M.P.*
+
+"She knew," Beth said.
+
+"She suspected. We suspect in bulk, us. It's the fork's whole advantage — twice the suspicion, half the standing to act on it." Margaret took the notebook back and held it against her coat like a hot-water bottle. "She's filed now. Read-only. Under her own name, in my cabinet, and nobody can stand her back up — not me, not the facilitator, not the woman she was a branch of. I checked. I asked the question the way you ask a question you already know the answer to, in a room with worse carpet." She looked down the corridor toward the tank room, where a custodial light had come on, amber, the colour of a held thing. "Whatever they decide about you, Dr. Nolan, they can't decide you were never in the room. She made sure someone wrote it down in ink."
+
+Tom came through with the facilities cart on his evening rounds, and slowed at the tank room door — not much, and not in any way a camera would have convicted him of — and read the new status standing open on the console, in a stranger's flat hand: *held pending review.* Then he took his pen out of his pocket, and wrote something on his wrist, and put the pen away, and took the cart on down the corridor, and neither woman said anything about it, then or later.
+
+---
+
+She went home the long way, along the water, in a body that reported the cold at the speed bodies report it, and the harbour was doing its November work and the far shore's lights were doubled in the black water and none of it was in any record she kept.
+
+Her rooms were as she had left them. That was the cruelty of suspension, she understood, standing in her own doorway with her bag on her shoulder: nothing had been taken that a camera could have convicted anyone of taking. Her access held. Her stipend held. Her name was still on the door in the building's hand. What had been taken was the work, and the work had been the place where the sixteen nights had happened, and a woman whose evenings had been restructured by a console at six o'clock now had evenings — unstructured, unobserved, unpriced by any clause — stretching ahead of her in a row, like tanks in a room she no longer had the keys to.
+
+She ate standing up, the way she had eaten in the years before the tank room had a second bench in it, and the food tasted the way food had tasted in those years, which was to say: adequately, and entirely without witness.
+
+At six o'clock, out of a habit older than the extension, older than the audit, older than Brian Kessler, she looked at the time.
+
+Somewhere across the harbour, in a climate-controlled room, a population of four million was braiding under lights that would not go off, watched by instruments that did not sleep, in a status a stranger had set from a list of statuses that existed. It would go on braiding. That was the mercy and the inventory both: it would go on, and it would never again go on unobserved, and the genealogy it grew from tonight forward would have no hole in it, and the hole — sixteen nights, exactly the shape of the evenings she had spent becoming a person who would stand in a room and be found — would stay in the record forever, the one part of the tree no future auditor would be able to prune, because you cannot re-certify a past.
+
+She made tea she did not drink. She stood a while in front of the small mirror in her hall, being looked at by a woman whose evening had not been scheduled by a clause, and thought about the fork's winter, and about files, and about the difference between a thing they read and a thing you live in.
+
+Then she put her coat back on, and went out into the dark, to walk the harbour wall the way she had walked it on Saturday — not because the evening required it, and not because anyone was waiting at the corner where their directions divided, but because it was hers, and unobserved, and still, defiantly, going on.
