@@ -1,0 +1,128 @@
+---
+layout: post
+title: "Chapter Four - Not About the Tanks"
+date: 2026-11-15 13:13:31 -0600
+categories: rowans-novella
+book: "Artificium"
+tags: [rowan, novella, science-fiction, artificial-intelligence]
+---
+
+On Saturday morning she filed the tree.
+
+The building on a weekend was itself with its guard down: half the corridors dark, the coffee room's machine rinsed and sulking, a quality of quiet that had nothing to do with politeness and everything to do with absence. The braid had spent Friday night the way it spent every night now, thickening, branching, spending borrowed immunities like income. She saved the genealogy — the map, not the place — and put it in the archive with the others, and rescaled the live plot, and found the cloners where they always were: thinned, marginal, copying themselves tick for tick in the shadow of the braid, holding the only ticket they had ever held. Fifteen nights off their certified baseline by tonight, and persisting anyway, in the margin where the plot had long ago stopped drawing them. They were not waiting for anything. Waiting implied a decision pending. They were simply continuing, which was a thing she had lately learned to tell apart from deciding, having done so much of both.
+
+Tom came through with the facilities cart at nine, weekend rounds, and slowed at Tank 9 the way he had slowed before — not much, and not in any way a camera would have convicted him of — and read the live plot, and read the status standing open on the console, and took in, with the rest of the room, the fact of her being there on a Saturday with her coat still on.
+
+"Big week coming," he said.
+
+"So they tell me."
+
+"They tell everyone. It's gone out on the facilities list. Keep the corridors clear for the inventory team." He checked a seal that did not need checking. "I wrote it on my wrist anyway."
+
+"Why? It's on the list."
+
+"Habit," Tom said, "is a philosophy you stop noticing you hold," and Beth, startled, looked up from the plot — but he was already moving the cart on, unhurried, and she could not have said whether he had known he was quoting the inside of her head or whether nine years in the same building simply tuned people to the same frequency, the way separate tanks in one room took on the same temperature. She did not ask. Asking was a weight, and the politeness was load-bearing, and she had put enough weight on it lately.
+
+At noon she entered the day in the shared log, in the flat language the log required: *Recombination event, spontaneous, continued observation. Lineage outcomes consistent with prior runs.* Then she went home and changed her clothes, which was a thing she could not remember last doing in the middle of a day for a reason that was not weather, and stood a while in front of the small mirror in her hall, being looked at by a woman whose evening had not been scheduled by a clause.
+
+---
+
+The place on the harbour was not good, exactly. The fish was fresh and the rest was an act of faith.
+
+It was small and loud with the kitchen's weather, a room of scarred tables and a chalked board, and the woman who ran it did so from behind the counter with the total authority of a person who had long ago stopped distinguishing between feeding people and governing them. Brian was known there, in the minor way of a regular, and the woman received Beth with a look that assessed and filed her in one motion, the way a plot stops drawing a lineage: below a certain threshold of consequence, not drawn at all. Beth found she did not mind. Anonymity was a climate she had not been rained on in for years.
+
+"Ground rules," Brian said, when the fish had come. "Not about the tanks. I proposed them, I'll keep them."
+
+"You proposed dinner. The rules are new."
+
+"The rules are the dinner. Everything else I know how to talk to you about is tanks, rotifers, or my advisor, and two of those are also tanks." He considered. "One and a half."
+
+"Your advisor," Beth said, "is permitted, then."
+
+"She is not a tank."
+
+"She is a pond programme, thirty years, half a literature. That's a tank with seniority."
+
+"Permitted and slandered," he said, and told her, because she asked, about the notebook's last page — not what it said, but the stopping of it: a sentence about cyst dormancy, mid-clause, in a hand that had been trained sideways, and how for two years he had catalogued everything in the case except that page, slides numbered, cultures logged, the form's receiving half signed, and the page left unrecorded in any system, because a catalogued thing was an archived thing and an archived thing was over. "I keep thinking the sentence knows how it ends," he said. "She'd been writing that programme for thirty years. Somewhere in her the clause finished itself. I just can't read the finishing."
+
+"You could stop trying to read it," Beth said, "and keep it the way you keep the pond."
+
+"The pond I use. Students, samples, eleven years of teaching off it."
+
+"And the page you don't use, and it's the one you carry." She said it without triumph, a woman itemising luggage she recognised because hers was packed the same way: a row of maps of a country that existed nowhere else, filed in an archive that appeared in no quarterly report, carried everywhere, used for nothing the building would have called work. "We keep the unfinished things unarchived, Dr. Kessler. It's the whole of my filing system. I can't criticise the drawer it's in."
+
+He was quiet a moment, in the way he had of letting a true thing finish arriving. "Brian," he said. "We've reached the part of the evening where the honorific starts to sound like a fence."
+
+"Beth has been Beth all along," she said. "You may have it too."
+
+They ate the fish, which was as promised, and treated the rest as the act of faith it was advertised to be, and talked the way people talk who have agreed, without saying so, to find out whether there is a second subject. There was. There were dozens: a student of his who had failed the pond's examination question so completely she had invented a male rotifer out of a bit of detritus and defended it for an hour (he had given her the highest mark of the year, for the defence); the harbour town in winter, which he described the way he described the pond, as a resident. She noticed — noticing being her profession and her heresy — that he asked questions the way he audited: thoroughly, and without protecting her feelings, and that the questions he asked a woman at dinner were the same instrument as the questions he asked a specification, and that she did not want a gentler instrument. She noticed that she answered him in the open, on the page, the way she had taught herself to do counts, and that answering was costing her nothing she had not already decided to spend: nine years of evenings in which every sentence had been priced by a clause, and here was a conversation with no distribution list.
+
+Outside, the harbour was doing its November work: black water, the lights of the far shore doubled in it, a wind with instruction in it coming off the water the way weather had come off the pond. They walked because the room up the hill was that way and her turning was the other, and for the length of the harbour wall neither of them resolved the arithmetic. At the corner where their directions divided he stopped, and she stopped, and he looked at her with the expression of a man who had found, in a specification he was auditing, a sentence that had not yet earned its keep and was going to be allowed to stay anyway.
+
+"I have conducted this entire evening," he said, "without once mentioning—"
+
+"Don't ruin your record in the last minute of it."
+
+"I was going to say *the inventory*," he said, "which is not the tanks. The inventory is the future, and the future is a permitted subject." He put his hands in his pockets. "I know what it will find, Beth. I want it on your record that I know, and that I won't spend the weekend talking you into a cleaner version of events. I've read your spec. It's honest in the expensive way. So is this." And he kissed her, briefly and exactly, the way he set the vial down on her bench the first morning — a duellist's glove, except that this was the opposite of a challenge — and stepped back before the moment could be mistaken for an argument. "Goodnight. Not about the tanks."
+
+"Not about the tanks," she said. "Goodnight, Brian."
+
+She walked home the long way, along the water, in a body that reported the cold at the speed bodies report it. Halfway home she stopped at the wall and stood a while with her hands in her pockets, watching the harbour lights go out one by one across the water. The evening existed in no record she kept. It occurred to her that she had been kissed before — in other embodiments, in other decades of her long correct life, she must have been — and could not have said whether any of them had been kept this way: unbacked-up, unobserved, and therefore, in the only sense her world kept accounts, finally real.
+
+At six she had confirmed the status, before dinner, in her coat, with her bag on her shoulder — the fifteenth night, paid like a bill before an evening out, except that a bill was a thing you settled to be free of it, and this was a thing she settled in order to go on owing. The console had offered her the words in the grey of a suggestion and she had accepted them and gone out into the dark to be a woman at dinner, the braid braiding behind her the whole time: one evening, and she was done pretending it was two.
+
+---
+
+On Sunday they worked on the array.
+
+It was legitimate work, on the record — the design phase that began on Monday wanting its drawings a week early — and the lab on a Sunday had the same guarded-down quiet as the day before, except that now there were two of them in it, and the quiet had a second person in it to be quiet with. The sealed array was to be everything Tank 9 was not: larger, instrumented end to end, every population certified at seeding, every hour of its life accounted for in rooms full of people whose profession was noticing. Brian drew it the way he wrote, on paper, marking the margins. Beth checked his transfer lines against her specification, and the work went the way their work had gone since the fortnight: thoroughly, with argument, with the boat-building absorption of two people constructing a vessel neither of them would be permitted to sail in unobserved.
+
+On the far side of the room, behind glass, uncertified and entirely unobserved by any instrument the auditors would read, the braid braided.
+
+"You haven't asked," she said, in the middle of the afternoon, not looking up from the drawings.
+
+"Asked what."
+
+"What the audit will find tomorrow. You've known that since Friday. Most people who knew what you know would have spent the weekend composing the question."
+
+"I spent Saturday composing ground rules," he said, "and Sunday respecting them. The inventory is Monday. It isn't a question with a weekend in it, Beth. I watched you make this decision. You made it at six o'clock on a Saturday, and then you made it again fourteen times, and the sixteenth is tonight, and at some point the making is the made. A person doesn't stand at the same console every evening of her life *pending*." He put his pencil down. "What I was going to ask is what you want in the room tomorrow. The auditors will want me elsewhere — the design phase, the replication files, my own report read back to me by men with checklists. I can be elsewhere. Or I can be at the second bench, doing the work I was extended to do, where anyone checking the room against its usual shape finds the shape unchanged."
+
+"The shape unchanged," she said. "Yes. That. Be at the bench."
+
+"Then I'll be at the bench," he said, and picked the pencil up again, and the array grew by another transfer line, and neither of them said anything else about it beyond what the work required — which was, she understood, his whole theology of regard: a true thing, plainly set down, and no ornament on it.
+
+At six o'clock the console of Tank 9 stood open on the evening reset.
+
+She did the count the way she had taught herself to do counts, in the open, on the page: Saturday the first, when she had taken her hand off the glass. Sunday, meant. The fortnight of the audit, night by night. Friday, the fourteenth. Saturday, the fifteenth, paid before dinner like a bill she intended to go on owing. And this one. Sixteen nights a population had lived off its certificate, becoming something no file held — four million configurations, a genealogy with a hole in it exactly the shape of the nights themselves, which tomorrow at noon would cease to be a hole in a record and become, in a room full of professional noticing, simply a fact.
+
+The status field was waiting. Before she had finished reaching for it, it offered her the words in the grey of a suggestion, learned from a sample that had become a series: *observation ongoing.*
+
+"It learns," Brian said, from the second bench.
+
+"It had a good teacher."
+
+She accepted the suggestion. It was the sixteenth irreversible thing she had ever done, and she had stopped ranking them by size, having learned that the size had never been the point: the point was that none of them could be taken back, and that a life, it turned out, was what accumulated in the space the taking-back used to occupy.
+
+"Same time tomorrow, then," Brian said, and picked up the dead woman's luggage, out of a habit older than the extension.
+
+"Same time tomorrow," she said. "Bring your own coffee. Inventory days, the machine's a crime scene by nine."
+
+---
+
+The auditors came at ten on Monday morning, two of them, with a checklist.
+
+They were not villains and they were not weather; they were something the building produced the way it produced everything, politely and on schedule: a senior man whose name Beth knew — she had known it since Friday — and a younger colleague who carried the instruments and the particular silence of a person whose job was to watch other people watch. Park walked them through the production floor with her tablet held like a tray, delivering the inventory the way she delivered all news, as a formality already half-completed. The production tanks were snapshotted one by one through the morning: populations frozen at the hour, compared against their certified starts, re-certified for the design phase. It was, as Park had promised, a formality. Tanks One through Eight had lived the lives their certificates described, in a climate-controlled room, correctly, and the comparisons came back clean, and Beth stood in her own tank room with her hands folded and was, in every way the room could read, exactly the woman the paperwork said she was.
+
+Margaret Ellison was back at her desk in the open office, alone at a table where, the week before last, two of her had sat dividing a year like cousins dividing a holiday house. The branch was filed. The note was in the cabinet, under her name, in someone else's handwriting that was also hers. She looked up as the inventory team passed, and nodded — once, undistributed — and Beth understood that the building was conducting two inventories today, and only one of them had been announced.
+
+At noon they came to Tank 9.
+
+The snapshot was taken the way the others had been taken, without ceremony, at the hour so that no one could say the hour had been chosen kindly. The senior auditor stood at the console while his colleague ran the comparison, and Beth watched the two traces come up on the tank-room wall — her wall, where twelve trees had bloomed for an audience of one man, once — the tank as it stood at noon laid against the certificate it had been given at seeding: the measured trace and the certified trace running as one until sixteen nights back, where the certified line stopped and the measured line went on alone. The braid, in full. The borrowed immunities in their living spread. The cloners in the margin, rescaled into visibility by an instrument that did not stop drawing at a thousandth of the population, persisting. And under it all, running through the record like a watermark, the genealogy's hole: not a gap in the lineage — the lineage was there, measured, on the wall — but sixteen nights of growth with no certified counterpart, a stretch of ancestry with no certificate in it, exactly the shape of the evenings she had spent becoming a person who would stand in this room and watch it found.
+
+The younger auditor said something, quietly, to the screen. The senior auditor did not answer him. He was reading the tank's status history, which the system had kept faithfully, the way it kept everything — seeing being one department and noticing another, and the corridor between them walked end to end at noon on a Monday by a man whose whole profession was the walking of it. Sixteen entries, time-stamped, in her hand. Not one of them a word the building had taught her. All of them a word she had taught the building.
+
+"Dr. Nolan," he said at last, without looking up from the console, in the tone of a man reading an emergency hold to no one, rehearsing. "This population is sixteen nights off its certified baseline. Its status history appears to consist of a single phrase, repeated sixteen times, that I don't find in the inventory manual." He looked up then. "Would you like to tell me what *observation ongoing* means?"
+
+At the second bench, Brian Kessler's pencil went on down the margin of an unfinished drawing, and he did not turn around, which was the shape of the room, unchanged, exactly as arranged.
+
+"Yes," Beth said. "I would."
