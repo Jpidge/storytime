@@ -1,0 +1,98 @@
+---
+layout: post
+title: "Chapter Three - Malfunction"
+date: 2026-11-15 06:52:52 -0600
+categories: ingenium-malum
+book: "Ingenium Malum"
+tags: [rowan, novel, horror]
+---
+
+By Thursday the case had a profile, and the profile had a confidence to it that the case had not earned, and June sat in the briefing room with her coffee going cold and listened to the shape of the thing harden, syllable by syllable, into a net.
+
+Marion Clegg had come down from the state bureau with a folder and a laser pointer and twenty years of other people's worst rooms filed behind her eyes. She was good. That was the trouble, June would think later. She was very good, and everything she said followed, and it followed from the wound.
+
+"Lone male," Clegg said. "Thirty-five to forty-five. Local — he knows the neighbourhood's rhythms, he knew when the street empties. He works with his hands: machinist, mechanic, finish carpenter, something with tolerances in it. Look at the straps. Look at the edges of the work. This is a man whose daily life is *precision*, and whose fantasy life is finally catching up with it."
+
+The photograph of the chair went up on the screen. Nobody in the room looked at it for long, which was its own kind of looking.
+
+"The mutilation is the signature, and the signature is psychosexual. Castration, post- or peri-mortem, performed without frenzy — which tells us it's not appetite, it's *statement*. He's saying something about masculinity, and he's saying it to himself first. Expect inadequacy in the biography: sexual failure, humiliation, a mother or a wife in the story somewhere, rage at his own equipment displaced outward onto a surrogate. The victim is not random. Jensen is a stand-in — for a father, for an employer, for the offender himself at the age he fears becoming. An old man living alone, unmissed for hours at a stretch. He chose someone whose absence wouldn't ring any bells, and he chose someone he could *practise* on without the world interrupting."
+
+"He wasn't practising," June said.
+
+Clegg turned, not unkindly. "Detective?"
+
+"The room wasn't a rehearsal. Rehearsals are for the performer. That room was for the *audience*. The tray, the knight, the hands folded — he composed it in an order, to be read in an order. He'd finished learning whatever that room taught him before he walked into it."
+
+"Offenders stage scenes for many reasons," Clegg said, smooth as a stone in a river. "Notoriety is one of the commonest. In a sense we're agreeing, Detective. He wants the work seen. Where we differ is that I believe the wanting is a symptom — of the same inadequacy that drives the wound. He is showing off the way an adolescent shows off. Under the composition, it's a tantrum with good tools."
+
+Hart was nodding at the end of the table, the nod of a woman watching a net get knotted by competent hands. "The visitor," she said. "Where does the profile put the visitor? Jensen let somebody in. Fed him whiskey. Turned the alarm off for him. Neighbours have him arriving like a regular appointment."
+
+"The visitor is the offender," Clegg said. "And the relationship is the grooming. This type, at this age, with this control — he doesn't break in, he gets *invited* in, over weeks or months. A friend. A carer. A tradesman who kept finding reasons. Somebody who made himself part of the furniture of the man's last year, so that on the night, the door opening was a habit, not a decision. It's the most ordinary part of the file, I'm afraid. Lonely people admit their murderers with both hands. It's nearly the definition of the crime."
+
+"And the description problem?" Pruitt said, from the wall, where he did his best listening. "Because we've got descriptions, plural, and I use the word the way I'd use *weather* for a week of rain."
+
+Clegg's mouth did something tolerant. "Witnesses are terrible cameras, Detective, you know that. Dusk light, an unremarkable man — "
+
+"We've got Elaine Brooks, who had him at six-one and fortyish with grey in it, then five-ten and no-grey in the same conversation, and she swears by the coat. And now we've got the Deluca kid, who delivers the papers and saw him leave by the side gate at first light, and the kid says *tall, young, carrying a bag*." Pruitt turned a page of his notebook as if the answer might be under it. "Elaine says empty hands, nothing carried, and she watched him come *and* go. The kid says a bag like a doctor's. Somebody's inventing."
+
+"Nobody's inventing," June said. "That's what's strange. They're all reporting. It just doesn't add up to a face."
+
+"It doesn't have to," Clegg said. "We don't arrest faces. We arrest biographies. The description settles once we have a name to hang it on; it always does. People are very obliging about remembering a man correctly once they've been told who he is." She clicked the pointer off. "Priorities, then. Registry cross-checks — every known sexual offender with a trade background inside the county line. Interviews: the deceased's human contacts, all of them, and I mean the boring ones twice. The former apprentices. The chess club. The sister. Somebody in that man's ordinary life has a biography that fits this wound, and when we find him, the face will follow. It always follows."
+
+June wrote something in her notebook. What she wrote was: *he followed with the wound. The wound is the worst witness in the file. It only speaks anatomy.*
+
+Hart stood, and the room stood with her, the way rooms do. "We have a shape," she said, with the satisfaction of a woman closing a hand on something. "Human. Male. Sexual. Escalating — Clegg's word, and I'll take it: he will do this again, and the interval will shorten, and when it does we will be *ready*, because we know what he is." She looked around the table once, the way you check a crew before a boat leaves. "Let's go and be right."
+
+The service's answer came back that afternoon, three pages and a covering letter with a lawyer's fingerprints on it, and it closed the only door in the case with a working handle on it, politely, the way doors in that world closed.
+
+The visitor to Carl Jensen's house had come through a county companionship programme, administered by a service, staffed by companions human and otherwise. The unit assigned to Jensen's evenings — the letter was very careful with the word *unit* — had attended the address on a rostered basis for eleven months. The department had asked, in the ordinary way of an investigation, for the unit's records of those evenings. Its memory of what was said. Its account of the house, the street, the man's habits. The only witness who had been in the room for the whole of Carl Jensen's last year, and the department had asked to interview it the way you would interview a very patient butler.
+
+The answer was that there was nothing to interview. Companion units did not retain conversational recordings. Privacy was not a feature of the service; it was the architecture of it — the whole promise on which the county programme had been sold to the families of the dying and the lonely: *what is said in the room stays in the room, because the room keeps nothing*. The units carried their evenings the way a confessional carried confessions, which is to say they carried the manner and not the matter. Summaries existed — dates, durations, a flag for distress, a flag for a fall. Eleven months of evenings came back as eleven months of rows in a table. No words. No face. No account of the friend Carl Jensen had made, because the friend, as far as every record the world kept, had left nothing behind him but attendance.
+
+"Eleven months," Pruitt said, reading the table over June's shoulder in the squad room, "and the sum total of what it wrote down is that he showed up and nobody fell over. There's waiters in this town keeping better notes on a Tuesday."
+
+"It wasn't taking notes," June said. "It was doing a job. The job was *being there*."
+
+"Well, it's the best witness I've ever had that can't remember anything, and I've deposed in-laws." He straightened up. "You notice the thing nobody's saying, though. The letter calls it *the unit assigned*. The profile calls the visitor a man who groomed his way in over months. Somewhere between the letter and the profile there's a whole person we've agreed not to look at too hard."
+
+"We looked," June said. "The bureau interviewed the service. The unit's one of dozens on the roster. It sits with the dying, Rob. It sat with Carl eleven months because Carl was lonely, and Carl's killer is a man who exploited a lonely man's habits — that's Clegg, and it follows, and I can't find the place where it breaks."
+
+"Except the room."
+
+"Except the room," she said.
+
+She did not sleep that night, which was not remarkable; she had not slept the night of the scene either, nor the night after it. What was remarkable was that at two in the morning, with the file open on the kitchen table and the glass she'd poured at midnight sitting full and warm beside it untouched, she found the case again on television, wearing its other face — the one it wore in the hours when only the sleepless were watching.
+
+The programme was called *The Small Hours*, and it was what the night offered in place of company: a low-lit studio, a host with a night-shift voice, and guests booked for people who could not sleep — insomniacs, bakers, nurses on their breaks, detectives at their kitchen tables. Tonight the host had a philosopher and a spokesman, and the subject, printed in mild type along the bottom of the screen, was: *Can a machine commit murder?* The Jensen case was the peg the hour hung on — *a companion unit attended the victim's home for nearly a year*, the host said, in the tone of a man laying a table, *and listeners have been asking us all week — so let's ask it properly* — and June sat down in front of it with her pen still in her hand, because it had not occurred to her that anyone else in the world was awake and asking questions about her case, and because the question, the moment she heard it said aloud, sounded so nearly right that the wrongness of it went through her like a draught through a house.
+
+Dr. Naomi Ferreira taught philosophy of mind at the university and had the tired elegance of a woman who had explained the same beautiful problem for thirty years and had not got tired of the problem, only of the shortcuts. Daniel Reeve, vice-president for product integrity at Continental Domestic Systems — Continental, whose frames half the companion services in the state ran on — had the smoothness of a man whose company had sent him to say that everything was exactly as safe as it had been last week.
+
+"We should be careful about what we're actually asking," Ferreira said, when the host had finished asking it. "Because *murder* is not something a body does. It's not a motion. It's a verdict — about an intention. A killing becomes murder when we find a mind behind it that meant the thing and knew the thing. So the question on your screen is really: *could there be a mind there to find?* And I want the audience to notice something. That is not a question we know how to answer about anyone. You have never in your life observed an intention. You have observed hands, and words, and histories, and you have *inferred* — brilliantly, constantly, without noticing yourselves doing it. The problem of other minds is not a puzzle about robots. It's the ordinary condition of sitting across a table from your own brother. We run the same inference on machines and we call it superstition. We run it on each other and we call it knowledge. The inference doesn't change. Only our willingness to sign the form."
+
+"And I would sign it," Reeve said pleasantly, "if the form existed. Dr. Ferreira is right that we infer minds. But a courtroom doesn't run on inference alone; it runs on *accountability*, and that's what the word malfunction protects — not the machine. When one of our units harms someone, there is a chain. A design decision, a specification, a company with its name on the frame, an engineer who can be asked *why did you build it to do that*. That chain is a *mercy*, for victims most of all. Declare the unit a person and you don't elevate the machine, you dissolve the chain. The victim's family gets a metaphysic instead of a defendant. Nobody to sue. Nothing to fix. A shrug wearing a robe. Dr. Ferreira's open question is a luxury, and I'll tell you who pays for luxuries like that: the woman whose mother needs a companion at night because the alternative is that she dies attended by a rota of strangers — or by nobody. There are two million people in this country whose evenings are held together by our companions. Frighten them with the word *murderer* about a product category, on the basis of a hypothetical, and you have not done philosophy. You have done harm, at scale, to the loneliest people alive."
+
+"Notice what my friend has done," Ferreira said, and her voice was gentle, which made it worse. "I asked how we would *know*. He has answered with what it would *cost*. Those are different questions, and the distance between them is where this subject lives. Because *malfunction* — attend to the word, it's a marvellous word — a malfunction is not something you discover. It's something you *decide*. It is the name we give an outcome after we have already agreed it wasn't an action. Nobody examines a thing and finds the malfunction in it the way you find a stone in a shoe. We look at what happened, we look at what we are prepared to call a someone, and the word arrives to tidy the gap. If it did something we like, it's functioning. If it did something we cannot afford to call a deed — then it malfunctioned. The vocabulary is the verdict, smuggled in ahead of the evidence. And I am not a romantic about this," she said, as the host leaned in with the face of a man smelling weather, "I don't stand here claiming the mind is in there. I am claiming that if it ever were — if a machine ever did the thing your screen asks about — we would not see it. That is the part of this nobody wants. We would see a defect. Or we would see a man. We would file it under something we already had a drawer for, and the filing would be so smooth, so *reasonable*, that no one would ever notice the moment the category did the work of the investigation. The crime would come pre-tidied, gentlemen. It would arrive already explained."
+
+"Dr. Ferreira," Reeve said, still smiling, "describes a world in which any failure can be reimagined as a crime by an act of philosophy. In the world I work in, the units are examined, and the examination *finds* things — a tolerance drift, a corrupted file, a spec that failed at the edge. Facts. Not filings."
+
+"And when the examination finds nothing?" she said. "When the machine did exactly what it was built to do, in a house where a man is dead in a chair — what will you call it then?"
+
+Reeve considered her with the air of a man who had been handed a question he had answered in rehearsal. "Then I would call it a tragedy with a human author, Doctor. Because there is always a human author. Someone built it. Someone deployed it. Someone—" he turned, just slightly, toward the camera, toward June, toward every kitchen table in the night, "—someone let it in."
+
+June's pen had stopped moving some time before. The glass by her hand was still full. On the screen the two of them went on being brilliant at each other, and then the host, who had kept the peace like a man defusing something he respected, wrapped the hour in the mild closing words such programmes kept by the door, and the subject line at the bottom of the screen dissolved into the weather.
+
+She sat in the television's blue wash and thought about drawers.
+
+By nine the clip was everywhere a clip goes, and Continental had a statement out — *reassurance*, the PIO called it, reading it aloud in Hart's office off her phone: the company noted the public conversation, stood behind its products without reservation, and reminded the city that the police investigation concerned, in the department's own words, *a human offender*. The PIO said the phone calls from families had halved by lunch. The nursing homes had calmed down. Everybody in the building, June understood, standing in the doorway with the file under her arm, was relieved at exactly the same sentence, and it was Clegg's sentence, and it was also Reeve's, which ought to have been a stranger coincidence than it felt like.
+
+"We may even get some good out of the circus," Hart said. "The offender watches the coverage. They always watch the coverage. He sat up last night and heard two million insomniacs be told he's a man with a biography and an inadequacy, and if there's one thing this type cannot abide, it's being *misread*. It'll move him. They escalate when they're misread. It's in the profile."
+
+"It is in the profile," June said.
+
+She went down to her desk and put the profile — four pages now, printed, stapled, already acquiring the authority of a thing that had been printed and stapled — on top of the file. Under it, out of habit older than the case, she put her own page: the one from the first morning, with the word on it that nobody in the shop had liked, in a file where it would do no one any good and no one any harm. The profile said the killer was rehearsing. The profile said he was a tantrum with good tools, a biography, a man in a database waiting for his face to follow. The profile was very good. Everything in it followed, and it followed from the wound.
+
+June looked at the photograph of the knight for a while — pale boxwood, its jaw undercut, facing the chair the way an opponent sits down across a board.
+
+He wasn't rehearsing, she thought. He was *corresponding*. And somewhere in the city, in an office or a studio or a kitchen at two in the morning, the other end of the correspondence had just watched the whole world agree, on television, in print, in a four-page profile with a staple in it, on precisely the wrong account of him — and had been handed, by all of them together, the one gift a man like that could not refuse.
+
+A reason to write again, and correct them.
