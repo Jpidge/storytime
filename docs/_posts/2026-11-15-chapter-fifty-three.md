@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Chapter Fifty-Three"
+date: 2026-11-15 13:38:23 +0000
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+After lunch Sarah brought the laptop to the end of the table. Helen had forwarded the address. Sarah opened a new message and put it in the top box. Betty took out the statement and kept the sideways sheet in the envelope by her elbow.
+
+“Which one do you want them to read first?”
+
+“The one with my name on.”
+
+Sarah took a photograph of the statement. At the bottom, Betty’s name was pale enough to disappear when Sarah tilted the screen. Betty brought the page over to the window and held the corners flat while Sarah took it again. This time Betty could read her name on the screen.
+
+“Will they know where it goes?” Betty asked.
+
+Sarah pointed to the address at the top of the message.
+
+“I mean after it gets there.”
+
+They had Jo’s sheet on the table. Sarah could put the number of the monitor in the subject, or the address of the house, or the visit reference. She read out what she had so far: *Statement for visit to number 26*.
+
+“Put the day she came,” Betty said. “There might have been more than one.”
+
+Sarah checked the date against Mo’s picture of the depot book. She read the subject as it now stood: *Statement for visit to number 26, Thursday 19 November*. She asked whether to add the replacement reference from the dispatch email. Betty looked at the sheet Jo had left. It still carried the reference Jo had brought with her.
+
+“Ask them to tell us which visit they put it with,” she said. “Then we’ll know.”
+
+Sarah attached the photograph. For the second attachment she opened the depot email of Friday the twentieth. Betty drew the sideways sheet out of the envelope far enough to see the headings. Sarah showed her where the row was in the file. It took two scrolls to bring the date and the watts back into view together.
+
+“Tell them that’s the file they sent us,” Betty said. “I got my line out of that.”
+
+Sarah read the message through, including the question at the bottom. Betty asked her to go back to the top and put her name in the first line. Sarah did. Then she drew her chair away so Betty could see the visits address and the Send button. Betty leaned over and pressed it.
+
+The reply came before Sarah had shut the laptop. It said the message had been received. There was a new number in the subject. Sarah started to write it on the envelope. Betty turned the envelope over so there was room for more than the number.
+
+“Put down what they said it was.”
+
+Sarah read the reply again. The number was for the message they’d sent. There was no visit number in it. She wrote *message received* on the back, with the new number beside it. “Does it say which visit?” Betty asked.
+
+Sarah shook her head. Betty asked her to leave the message open. She put the statement and the sideways sheet back in the envelope, then set it beside the laptop with the new number facing up.
