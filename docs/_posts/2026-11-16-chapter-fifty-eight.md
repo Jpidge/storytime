@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Chapter Fifty-Eight"
+date: 2026-11-16 19:12:42 +0000
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+Betty answered the phone on Tuesday with a peg still in her hand. She put the peg on the table and asked Mo to wait while she got Sarah. There was a scrape at the other end. Mo said the fitter was pulling his stool up to the bench.
+
+“We’ve got 4173,” she said when Sarah sat down. “There’s nothing in the socket on the front. Do you want to stay on while we turn it on?”
+
+Betty slid the phone between them. She could hear the fitter ask if Mo was ready. Then it went quiet for long enough that she looked to see if the call had gone.
+
+“Point four,” Mo said.
+
+Betty pressed the peg open. She held it that way until Mo said zero. When she let it shut, the two ends met a little out of line. She put it down and waited for the fitter to finish writing.
+
+Mo came back to the phone. The fitter had started a stopwatch when he switched the monitor on. He’d written down the bench time and watched the monitor’s clock until its minute changed. Both clocks showed the same minute at switch-on. The monitor’s minute changed two seconds after the bench clock’s. When Mo called out the readings, he’d put the stopwatch times beside them on the sheet: one second for point four and ten for zero.
+
+“Did he put that down?” Betty asked.
+
+“He’s got it here.”
+
+Mo said she’d send the sheet and the first rows of the log once they’d downloaded it. Betty asked if they could stay on for the reading. Mo told her a minute had passed and the display still read zero.
+
+“Does that tell us what it wrote?” Betty asked.
+
+“No. We’ll have to look.”
+
+They waited until the first two minutes were up. Then Mo connected the computer. The fitter read out the first line with anything in the watts column. It was a zero. The line above it said *Startup*.
+
+“Can you put the two sheets in the same email?” Betty asked. “Put the bench sheet first. I want to see where he put what you said.”
+
+Mo said she would. After the call Betty turned the peg over. There was a little way to go before the spring slipped back into its groove. She worked it in with a thumbnail, then opened the peg and tried it again. Sarah asked if she wanted to hang the rest of the washing.
+
+“Yes,” Betty said. “Leave the sound on the phone.”
