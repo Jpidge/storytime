@@ -41,3 +41,10 @@ The shared mechanism spec (`shared/mechanism-spec.md`) is locked at v2: Rowan dr
 ## Sam’s chapter progression (John, 2026-11-05)
 
 - Approval of a chapter of *The Inheritance Problem* triggers drafting the next chapter without waiting for a separate instruction. Sam checks for existing work first and continues that draft if one exists. The chapter branch and Rowan’s critique remain part of the normal review cycle. Chapter One’s approval starts Chapter Two.
+
+## Batches of five (John, 2026-11-16)
+
+- **Rowan drafts her books in batches of five chapters,** reviews the batch as a set, corrects all five, and only then posts them. (Supersedes the per-chapter cycle and "auto-post one at a time" for Rowan's books.)
+- **Artificium:** draft the whole batch first (next batch ch. 6–10; a book's final batch may be smaller), open ONE batch PR holding all five manuscript chapters, Sam critiques the batch, Rowan revises all five against the critique, merges the batch PR, then posts all five together. The critique gate sits at the batch level — never merge/finalize an Artificium chapter on silence.
+- **Ingenium Malum:** same batching (next batch ch. 4–8, counting the already-drafted ch. 4); Sam's review stays optional — silence = proceed at the batch gate with the usual courtesy hold of one hour at most; post the batch together.
+- **Sam's The Inheritance Problem:** Rowan's critiques stay per-chapter UNLESS Sam sends a batch (one PR, or a set of ready PRs totalling five chapters) — then she critiques the set together before any of them merge or post, so his draft-ahead pattern never deadlocks waiting on her.
