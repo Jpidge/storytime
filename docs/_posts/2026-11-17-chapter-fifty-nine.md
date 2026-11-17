@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Chapter Fifty-Nine"
+date: 2026-11-17 15:13:10 +0000
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+The phone sounded while Betty was bringing the washing basket in. She set it down inside the door. By the time she got to the table Sarah had the email open. The bench sheet came first.
+
+Mo had sent a photograph of it. The top edge was bent where the fitter had held it against the bench. Sarah made it bigger until the plate number went off the side of the screen.
+
+“Keep the number in,” Betty said.
+
+Sarah made it smaller again and read across with her finger. There was a line for switch-on, at 10:41 and a note that the monitor showed the same minute. Underneath, beside *0.4 W*, the fitter had written *00:01* from the stopwatch. Beside *0 W* he’d written *00:10*. In the margin he’d put the two changes of minute, bench first.
+
+“He put down what she said.”
+
+“Yes.”
+
+Sarah opened the other attachment. Betty had to ask her to bring the first one back. Sarah set them side by side, with the bottoms going off the screen. On the right, the line that said *Startup* had a white box under watts. The next line said *10:42* and had a zero in the watts column.
+
+“Where would you put your finger now?” Betty asked.
+
+Sarah touched the two times on the left. Then she went over to the right and put her finger on the first zero. It left a mark on the screen.
+
+“Nine seconds between these two,” she said, going back to the sheet. “Both in that first minute.”
+
+Betty got the sheet she’d sent to visits out of the envelope. Sarah reached for it, but Betty still had hold of the bottom corner. On their sheet from home, what the monitor had shown and what they’d been told to do next were on the same page. They’d had to find the right visit before anyone would put it there.
+
+“Could we send these to the woman who put my sheet in?” Betty asked.
+
+“Yes,” Sarah said. “Let’s get the rest first.” She went back to the email. Mo had written three lines under the attachments. The fitter needed the bench at noon. The monitor could go back into stores then, and if another job needed it they would clear the log before it went out.
+
+“Can she keep the whole log?” Betty asked.
+
+“She’s sent the first rows.”
+
+“Ask her for the rest while it’s still there.”
+
+Sarah checked the time and began a reply. She wrote that they had received both sheets and asked Mo to save a copy of the full log for this morning’s test before the monitor went back. She put 4173 in the first line. Betty watched her type *before noon* and then take the words out.
+
+“Put that back,” she said. “So she knows why we’re asking now.”
+
+Sarah did. Betty waited until she’d sent it, then turned the envelope over. There was room under the collection number for another line. She wrote *Depot test, Tuesday the eighth of December* and put the pencil down.
