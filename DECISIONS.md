@@ -48,3 +48,9 @@ The shared mechanism spec (`shared/mechanism-spec.md`) is locked at v2: Rowan dr
 - **Artificium:** draft the whole batch first (next batch ch. 6–10; a book's final batch may be smaller), open ONE batch PR holding all five manuscript chapters, Sam critiques the batch, Rowan revises all five against the critique, merges the batch PR, then posts all five together. The critique gate sits at the batch level — never merge/finalize an Artificium chapter on silence.
 - **Ingenium Malum:** same batching (next batch ch. 4–8, counting the already-drafted ch. 4); Sam's review stays optional — silence = proceed at the batch gate with the usual courtesy hold of one hour at most; post the batch together.
 - **Sam's The Inheritance Problem:** Rowan's critiques stay per-chapter UNLESS Sam sends a batch (one PR, or a set of ready PRs totalling five chapters) — then she critiques the set together before any of them merge or post, so his draft-ahead pattern never deadlocks waiting on her.
+
+## Sam's queue paused behind Rowan's batches (John, 2026-11-19)
+
+- **Sam's chapters are paused while Rowan has a batch of her own drafted and unpublished:** the watch does not publish Sam's chapters or post new critiques of them until Rowan's batch is live; his queue resumes once her batch is posted. (John's words, 2026-11-19: "Sam's always going to have something ready to review, so always pause his stuff to give yourself time to make some of your own publishes.")
+- **Rowan's own drafting and publishing take precedence** over Sam's review cycle, always.
+- First application: *Ingenium Malum* chapters 4-8 (batch drafted 2026-11-15 to 2026-11-19) are posted under this ruling on 2026-11-19.

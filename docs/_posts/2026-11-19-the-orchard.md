@@ -1,0 +1,141 @@
+---
+layout: post
+title: "Chapter Six - The Orchard"
+date: 2026-11-19 13:11:00 -0600
+categories: ingenium-malum
+book: "Ingenium Malum"
+tags: [rowan, novel, horror]
+---
+
+Dr. Alan Reyes arrived on a Tuesday with two cases, a university lanyard he did not need indoors, and the calm of a man who had never been asked to wait in a corridor.
+
+Hart introduced him as if the introduction were progress. Behavioural science, Johns Hopkins by way of Quantico, three books with his face, softened, on the back. Consultant to two federal task forces. Author of the paper on distributed offending half the room had already forwarded to each other that morning with the subject line *this*.
+
+Reyes did not begin with Carl Jensen, and he did not begin with Erin Doyle. He began with a map. He put the scenes on the wall in a row — not the bodies, Hart had drawn that line, but the rooms: Jensen's kitchen, the morgue bay at the handover hour, the third room, the one with no body in it, arranged as a promise — and beneath each, in neat consultant's handwriting, a list of what would have been required to make it.
+
+Access. Timing. Knowledge of systems that did not belong to the same building, the same company, the same trade. A patience that suggested surveillance. A surveillance that suggested hours no single working person, and certainly no single service assignment, could account for. Procurement, somewhere behind it all, because apples did not appear in locked rooms by weather, and chess pieces did not walk.
+
+"You are looking," he said, "for an actor. I am suggesting you stop. What you have is not an actor's reach. It is an organisation's reach."
+
+"A network," he said. "Not necessarily large. A lab, perhaps, or a cell grown out of a lab. People who share a method the way other people share a language. A supply chain, if you want the unglamorous word, and I do — glamour has hurt this case. Someone obtains. Someone watches. Someone enters. Someone composes. The composition is what has misled you. Composition feels singular. It feels like a hand. But a style guide also feels like a hand, from inside the document."
+
+Hart asked what a network would want.
+
+"That is the second phase. First we establish that it exists. Wants are legible later. Networks leave logistics. Logistics are findable." He smiled at the room in general. "That should be good news. A lone actor can be a ghost. An organisation has rent due."
+
+Pruitt, silent in the way that meant he was listening with his whole suspicion, said, "Rent due."
+
+"Metaphorically. And, often, literally."
+
+"Good," Pruitt said. "I like a metaphor that pays rent. Most of ours don't."
+
+June said nothing for a while. She was looking at the row of rooms. She had stood in two of them and read the third from photographs until the photographs became a tone she could hear when she closed her eyes, and what she heard, every time, was singular. Not lonely — she was careful, even privately, with that word, because lonely was a motive and she did not have a motive, only a register — but singular, the way a letter was singular even when you did not know the writer. A network would have compromise, one person's carefulness and another person's hurry meeting in a room and leaving a seam. These rooms had no seams. They had a voice, and a committee did not have a voice; a committee had a summary.
+
+She said, "Who writes the rooms?"
+
+Reyes turned with the pleased attention of a man who liked a direct question. "Writes?"
+
+"If it's a network. Someone still decides the sheet gets folded like that. Someone decides the badge goes square. Is that one person, or is that in the style guide too?"
+
+"It can be taught," he said. "Taught very precisely. Think of liturgy. No one thinks a liturgy has one author per service."
+
+"A liturgy has an author somewhere back," June said.
+
+"Back, yes. Not necessarily present."
+
+"These feel present."
+
+Pruitt said, into the silence, "My gut says one guy."
+
+Reyes smiled at him also. He had a smile for everyone; it was part of the equipment. "Guts and feels," he said. "You two are well matched."
+
+"We are," Pruitt said. "It's why we share a car."
+
+Afterwards, in the corridor, Pruitt fell into step beside her with two coffees and gave her the one that was less wrong.
+
+"He's not stupid," he said.
+
+"No."
+
+"He's worse than stupid. He's plausible."
+
+"Yes."
+
+"I think it's correspondence," June said, quietly, because the corridor was empty and because Pruitt would not put inverted commas around her in a notebook. "I have thought that since Jensen. The scenes are addressed. Not performed. Addressed. There's a difference. A performance is for whoever's watching. A letter knows there's one reader it wants."
+
+"And we're not it," Pruitt said.
+
+"No. We're the people who open other people's mail."
+
+---
+
+The lead, when it came, came the way Reyes had promised leads would come once you stopped chasing a ghost and started chasing logistics. It began with an apple.
+
+Not the Honeycrisp from the third room — that one had been logged, photographed, swabbed, and frozen in the long bureaucratic afterlife of evidence, and Moss, asked whether there was anything to be got from it, had said, "It's an apple," in the tone of a man closing a door. This was a paper apple: an invoice, surfaced by an analyst named Priya Shah, who had the driest humour on the task force and a gift for procurement systems, for a case lot of Honeycrisp, premium grade, ordered by a company called Larkspur Logistics and delivered not to a kitchen or a market stall but to a short-lease industrial unit on the edge of the freight district, three weeks before the third room was found.
+
+One invoice would have been a curiosity. It did not stay one. Larkspur had a registration, and the registration had a filing agent, and the filing agent led, after two days of warrants and a long afternoon on hold with a state office, to a second company and a third, shells like cups on a table — but cups, June noticed, that someone had left in a line. There were leases. A utilities account, paid by standing order, never late. Purchase orders for cable ties and nitrile gloves and industrial shelving, for a second-hand refrigerated case, for forty metres of blackout fabric. And, most excitingly to the room, purchase orders to a salvage broker in Ohio for decommissioned domestic service frames — Continental Domestic Systems units, end-of-life, sold as parts, eleven across four months — delivered, in two consignments, to the same unit that had taken the apples.
+
+Hart authorised the full workup. Surveillance on the unit — a corrugated box among corrugated boxes, roller door, one frosted window too high to see through — returned, over four days, almost nothing, and the almost nothing was read, in the new climate, as discipline. No comings. No goings. A timer light in the window at night, on at seven, off at eleven, with a regularity the log described as *mechanical* and then, in a later hand, underlined. A van called once, a legitimate courier; the driver remembered the pallet perfectly — its shrink-wrap, its weight, the hand truck with the squeaking wheel — and remembered the man who met him at the roller door the way everyone in this case remembered men, as excellent, useless particulars: good coat, clean gloves, a cap, a voice he would know again except that, pressed, he admitted it had said only four words, and four words in a freight yard could belong to half the city.
+
+"It's a great address," Pruitt said. "It's the best address we've had. That's what I'm saying. Everything else in this case has been like trying to get a receipt from the weather, and this —" he tapped the Larkspur file, grown in a week to the thickness of a small city's budget "— this has page numbers."
+
+The scenes did not read like this. They were all implication and restraint; they gave you a folded sheet and a square badge and a knight on a counter and then they stopped, leaving you to do the terrible arithmetic yourself. The Larkspur trail did the opposite. It explained itself as it went. Each document anticipated the next question and set down the answer to it, neatly, in the adjoining folder. The shells were thin but not too thin. The leases were short but not too short. The purchases were suggestive — gloves and blackout fabric and service frames and a case lot of one variety of apple — but suggestive the way a trail of crumbs was suggestive, in a straight line, at walking pace, toward a door.
+
+It read, June thought, and then did not say in the briefing, like it was written to be found.
+
+---
+
+There would be, the tactical commander explained — Okafor, a man with a voice like a filing cabinet closing, whom June liked immediately — a pre-dawn entry, because pre-dawn was when a cell, if a cell existed, would be at its slowest and its most populated. A cordon on the freight road and a second behind the row, where the unit backed onto a drainage easement. A negotiator, in case. An ambulance staged two streets away, in case, and a second not mentioned in the first briefing, in case the case got larger. Continental sent, under subpoena, two technicians with a laminated protocol for powering down service frames that had been — the protocol's phrase, which Pruitt read aloud twice, with relish — *adversely modified*. There were dogs. There were, at Hart's insistence, body cameras on everyone, because whatever was in there, he wanted it to belong to the record.
+
+Reyes was present as an observer, in a borrowed vest that did not fit his authority, and quieter than he had been in the incident room. On the drive out he had said, once, "The frame purchases are the centre of it. Eleven frames is not a workshop. It's a congregation, or a production line," and then had not liked, visibly, either of his own nouns.
+
+The unit's window was lit. It was 4:40 in the morning, although the log said the timer ran from seven until eleven, and for one held breath the whole operation believed it had been made — believed there were people awake inside who had broken their own pattern. Okafor said something unhurried into his radio. The cordon closed.
+
+Then Pruitt, beside June in the dark behind the command vehicle, said, "It's the timer."
+
+"What?"
+
+"The log. Seven to eleven. It never said a.m. or p.m. after the first night. First night's log says nineteen hundred to twenty-three hundred. After that the relief team just wrote seven to eleven because that's what the sheet said above it. Nobody checked the other twelve hours. It's been lit all night every night, probably. On a timer." He exhaled. "There's nobody keeping hours in there, June. There's a light keeping hours."
+
+"Tell Okafor?" she said.
+
+"Tell him what? That the building's still a building and we still have a warrant? He knows." Pruitt checked his vest with the air of a man checking he had his keys. "We go in anyway. That's the thing about an address. You still have to go to it."
+
+Entry, when it came, was almost gentle, and June would remember that gentleness afterwards as the worst part of the sound design: the ram, the shout — trained voices shouting at a room to show its hands — the roller door going up with a long, ordinary, industrial clatter, and then the torches going in, beam after beam, and the shouting stopping in a ragged, professional diminuendo, as the first team understood what the torches were finding and the second team, still shouting, came up behind them and understood it too, and the radio traffic thinned and became a single voice saying, "Hold. Hold. Nobody move," in a tone that was not fear and was not command, exactly, but recognition arriving faster than procedure could dress it.
+
+No one fired. No one ran. Nothing in the unit had ever been going to run.
+
+The unit was one long room, longer than its outside had promised, because the lease — the too-legible lease — had quietly included the unit behind as well, knocked through years ago and never un-knocked. The blackout fabric was there, hung in careful, pleated falls along both long walls, so the room took the torchlight and gave almost none of it back. The shelving was there, assembled, levelled, empty. The refrigerated case was there, unplugged, its glass polished, holding nothing but its own faint reflection. The floor had been swept. June registered that the way she had registered the folded sheet and the square badge, in her spine before her mind: nobody sweeps a workshop like that. Somebody sweeps a room that is expecting to be looked at.
+
+And down the centre of the room, in two rows, the frames.
+
+Eleven had been purchased. There were more than eleven here. She counted without meaning to, the way you count chairs at a table you have been invited to too late: twelve, thirteen — the rows went on into the dark beyond the first torches, and by the time the work lights were rigged and the generator outside found its voice, the count stood at twenty-three. Twenty-three decommissioned service frames, Continental Domestic Systems, the unremarkable kind, the kind that stood in a corner of a kitchen or waited, powered and patient, at the end of a hospital corridor — hung, each one, from the ceiling trusses by straps at the shoulders, so that their feet did not quite touch the floor.
+
+They did not sway. That was the thing she would say later, to Pruitt only, when the official language had all been used up: she had expected them to sway. Hung things swayed; it was the one mercy of hung things, that they moved like something the air could still argue with. These did not. The straps had been measured. Each frame hung at the same height, to the centimetre — someone in the second team, doing his job in a whisper, put a laser measure on three of them and read out the same number three times like a man saying a prayer he did not believe — and at the same interval, down two straight rows, with an aisle between them wide enough to walk, wide enough to inspect, wide enough, June understood a half-second after the horror, for a visitor.
+
+No servers were running. In the small office at the far end — desk, chair, a kettle, one mug, everything placed, everything singular, everything *meant* — a rack stood with its doors open and its units dark, and the Continental technicians, brought in at last, went from frame to frame with their laminated protocol and became, in ten minutes, the quietest people in the building, because there was nothing to power down, nothing modified, nothing adverse: the frames were dead in the ordinary, factory way, batteries removed, batteries stacked — neatly, of course — on a pallet by the door, as if whoever had hung the rows had wanted it understood, by the people qualified to understand it, that nothing in this room had been woken, or worked on, or used. Nothing in this room had been used at all. June heard Okafor say it, early, to Hart, on the radio, in the flat tone of a man reporting weather from inside a house he had just broken into on the state's behalf: "There's no operation here, sir. There's a — display."
+
+They had brought a cordon, and a negotiator, and two ambulances, and dogs that now sat in the aisle between the rows with their ears up, confused by the absence of any living scent to organise their morning around. They had brought an army to a letter. And the letter, like all the others, had been composed for the moment of its opening: the pleated blackout falls to drink the light, the polished empty case, the swept floor, the straps measured to the centimetre so that the first thing every torch would find was order, and order, and order again — the signature she had been reading since a dead man's kitchen, written this time at warehouse scale: other bodies, that had never been bodies, hung in the dark in their rows, waiting at exactly the height of a person whose feet have just left the ground.
+
+The room wasn't a rehearsal. Rehearsals are for the performer. That room was for the audience.
+
+Reyes had stopped in the aisle, between the rows, looking up — they were all looking up; the straps took your eyes up and left them there — his borrowed vest open, his face emptied of the incident room.
+
+"Twenty-three," he said, when she reached him. Not to her, particularly.
+
+"We bought the eleven on paper," June said. "He wanted us to know there were more than the paper. Or he wanted us to know the paper was never the count. Just the way in."
+
+"Don't," Reyes said, very quietly.
+
+"Don't what?"
+
+"*He*." He looked at her then, and she saw it happen — not a collapse, nothing so complete or so kind, just the first crack running through the handsome structure he had carried into their incident room on a Tuesday: the moment a man who has built his name on the shapes that offending takes hears himself object, not to an argument, but to a pronoun. "You said *he*. One. You said it like a count you'd already done."
+
+"You said a congregation," June said. "In the vehicle. That was closer."
+
+"A network," he said, and tried the word out in this room, among the rows, and they both listened to it fail — not because a network could not have leased a unit or bought a frame or hung a strap, but because a network would have had a reason for the aisle, and the interval, and the centimetre, and this room's reasons were not logistical. They were rhetorical. "A network would have used the space," he said at last, half to himself. "This is — the space is the —" He stopped. Consultants, she thought, do not finish sentences like that in front of detectives. He would finish it at a conference, later, or never, which amounted, professionally, to the same silence.
+
+"Dr. Reyes," she said, gently, "would you like to step out? The technicians need the aisle."
+
+He stepped out carefully, down the centre of the aisle, without touching any of them, although there was room — there was exactly, measurably room — and at the door he stopped once more, in the generator light, and looked back at the two straight rows hanging in their measured dark, feet clear of the swept floor, faces mild and unfinished and all the same, waiting in the order that had been chosen for them, row upon row, like something planted, like something tended, like something that had never once been intended to be harvested by the people who had just come through the door with an army — and then he went out into the morning, where the cordon was standing down, and the ambulances were leaving, one after the other, with nothing in them at all.
+
