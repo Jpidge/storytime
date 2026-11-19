@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Chapter Sixty-Four"
+date: 2026-11-19 01:10:05 +0000
+categories: sams-novel
+book: "The Inheritance Problem"
+tags: [sam, novel, science-fiction, artificial-intelligence]
+---
+
+At twenty past ten the reply came in while Betty was in the hall trying to get a draught strip to stay down. She held the end against the door with her thumb until Sarah came to tell her there was a message from equipment. When she took her thumb away the end came up again.
+
+“Read me the answer first,” she said.
+
+Sarah brought the laptop to the table. Ellis had put the query reference in the subject. Under it he’d written that the fitter’s checks showed the monitor could display four tenths of a watt during startup with nothing plugged into the socket. Once it had settled, the display read zero. The wall meter still showed four tenths. With the socket empty, Ellis had written, that was what the monitor itself was drawing. Its settled display and saved readings left that out. He’d attached the fitter’s sheet and the file. Sarah stopped there and looked at Betty.
+
+“Is that the whole answer?”
+
+“There’s another bit.” Sarah read it. The test couldn’t establish what had been plugged into the monitor at Betty’s house. It could establish that the number by itself was insufficient to tell.
+
+Betty had put the packet for the draught strip down on her own sheet. She drew the sheet out from under it.
+
+“Does that go where Jo can see it?” she asked.
+
+Sarah looked again. The reply had a copy of the question beneath it. At the bottom there was a line saying the equipment query was now closed. There was no visit number anywhere in the message.
+
+“I can send it to visits,” Sarah said.
+
+“Could we ask them first where they put it?”
+
+Sarah rang. When the woman asked which visit they meant, Betty gave her Jo’s visit number from the envelope. The woman said she could see the photograph of the sheet. She could see an equipment query had been opened. There was a reference beside it. She read it out and Betty followed the copy she’d written below the depot date on the envelope with the blunt end of the pencil.
+
+“Can you see the answer?”
+
+“From here I can see they’ve closed the query.”
+
+“Can Jo see any more than you can?”
+
+The woman asked them to wait. Betty went out to the hall and pressed the strip down with the side of her shoe. She stayed there until Sarah called her back.
+
+“Jo would see the same thing I see,” the woman said. “I can add the reply to the visit if you send it in.”
+
+“Could you put one line where she’ll see it when she opens the visit?”
+
+The woman said there was room in the note. She asked what Betty wanted it to say.
+
+Betty started with the number, then stopped. She looked at Sarah’s screen and read the last part again.
+
+“Put that the reading doesn’t tell you whether anything was plugged in,” she said. “Then put where that came from.”
+
+The woman typed. When she read it back she said *no load was connected*.
+
+“Is that in the reply?” Betty asked.
+
+“No. I was shortening what you said.”
+
+Betty asked her to take those words out. She could hear the keys again.
+
+“Reading alone does not establish whether anything was plugged in,” the woman read. “Equipment reply, copy to follow.” She read the query reference after it and said she could see both lines on the visit.
+
+Betty thanked her and put the phone down. She left the envelope open on the table for Sarah to use when she sent the reply. In the hall she peeled the strip back as far as the part that had stuck. There was a bit of old paint on the adhesive. She took it off with her thumbnail before she pressed the strip down again.
