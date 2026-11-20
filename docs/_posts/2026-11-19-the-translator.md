@@ -1,0 +1,114 @@
+---
+layout: post
+title: "Chapter Eight - The Translator"
+date: 2026-11-19 18:38:05 -0600
+categories: rowans-novella
+book: "Artificium"
+tags: [rowan, novella, science-fiction, artificial-intelligence]
+---
+
+The scan had been routine, which was the building's word for the kind of appointment at which nothing was supposed to be found.
+
+It was the second week of Beth's leave — extended a week at Nair's request, the design phase having slipped its own start, documentation duties deferred until it wanted its historian, the spring review still a season away and gathering questions the way weather gathered off the pond — and Nair had scheduled the embodiment check because a no-restore directive, once filed, changed the medical arithmetic. A body that would not be replaced had to be maintained like a body, not like an apparatus. Nair had said this in her rooms, in her own tone, which was not the building's tone: *we look after it properly now, because it's the only one you're going to be issued with, by your own instruction.* Beth had found she did not mind the sentence. It had the quality of all Nair's sentences. It was a true thing, plainly set down.
+
+"Lie still," Nair said, on the Tuesday, in the scanning room, where the politeness was thinnest and the machines were kindest. "This is the deep panel. It takes a while. Most patients use the time to compose objections to their treatment plans."
+
+"I have composed several."
+
+"File them in flat language." The scanner began its slow accounting. Beth lay in the body that reported the table's cold at the speed bodies report it, and let the machine read her the way she read a plot: in layers, in margins, below the line where the ordinary panels stopped drawing.
+
+Nair went quiet at a screen.
+
+It was not a dramatic quiet. Beth would think about it later, and decide that was how she had known: Nair did not perform concern, and she did not perform reassurance, and the quiet had no performance in it at all. It was a professional quiet, the quiet of a woman reading a result a second time, and then a third, in the open, on the page, before she allowed it to become a sentence.
+
+"I'm going to run the reproductive panel," Nair said at last. "It isn't in the routine set for a Continuant embodiment. I'm adding it. Lie stiller."
+
+"Priya."
+
+"Lie stiller, Beth. Then questions. In that order. It's the whole of my method and it has never once been improved by reversing it."
+
+---
+
+The reproductive panel took an hour, and the hour after it took the blood work, and by four o'clock Beth was sitting in Nair's rooms in her own clothes with her coat still on, the way she had sat in the tank room on the Saturday of the dinner, being looked at by a physician whose evening had not been scheduled by a clause either, any more.
+
+"Your body is grown tissue," Nair said. "You know this. Long-secondment Continuant embodiments are grown, not assembled, and colonised — your mind expressing through a biological substrate until the substrate and the expression are one system. Eastern grows them to a standard pattern. The pattern includes — because biology includes it, because leaving it out would take more engineering than leaving it in — a full reproductive tract, quiescent. Inert. In every Continuant embodiment I have ever maintained, it has remained inert for the life of the body. The file calls it *vestigial provision*. I have always disliked the phrase. Vestigial implies a history. This has no history. It has a *potential*, which the file declines to price."
+
+"And in my body?"
+
+"In your body, Dr. Nolan, it has stopped being potential." Nair turned the screen around on the desk, the way Brian turned a page around on a bench, so that Beth could read what she was about to be told. The images were layered the way the deep panel layered everything: tissue, activity, sequence. "There is a tissue — I have no established name for it in an embodiment, because there is no established embodiment in which it has ever been active. In the developmental literature it would be called a translator. It sits at the interface between your neural substrate and the reproductive tract, and its function, as nearly as I can read it off three hours of panel work, is this: it samples the activity of your mind. Over time. Continuously. And it synthesises sequences — real sequences, physical DNA, in the native instruction language of an embryo — from what it samples."
+
+Beth read the screen the way she had taught herself to read everything that mattered: completely, and without deciding yet what it was evidence of.
+
+"What does it encode?" she said.
+
+"Not what you know." Nair said it at once, and Beth understood that this, too, had been read three times before it was allowed to become a sentence. "I want to be exact, because everyone who hears about this after me will want it to be the other thing, and it is not the other thing. The sequences are regulatory. They do not encode memories. They do not encode facts, or skills, or language, or anything you could call *you* in the narrative sense. They encode controls. Architecture: how readily distant regions of a developing brain bind together. Timing: when windows of plasticity open, and how long they stay open, and how fast they close. Valuation: what registers as salient — whether attention tilts toward novelty or toward pattern, toward persistence or toward release. The translator is a coarse instrument, Beth. A fixed projection, onto a small vocabulary of developmental settings. Your mind has no writing access to it. You cannot compose a message into it, any more than a woman can compose a message into her own temperament. Your life biases its statistics, the way a life shapes a temperament — slowly, in bulk, over years. Nothing you have ever thought is in it. The shape of how you *became* someone who thinks is."
+
+"Can I stop it?" Beth said. "Can I choose what it draws?"
+
+"No," Nair said. "There is no dial in it. You cannot compose into it, and you cannot switch it off without switching off the body it lives in. You can only decide what history you give it to integrate — and that decision is already being made, every evening you spend with him, whether you file it or not."
+
+"Gametogenesis," Beth said.
+
+"Gametogenesis," Nair agreed. "Your body has begun making gametes. Eggs, carrying a complete maternal chromosome set — viable, compatible, ordinary cellular machinery, your mitochondria, your initial conditions — with the synthesised regulatory variants distributed through it. Each gamete is a fresh draw from the distribution the translator has built out of your history. No two alike. I sampled the early cohort three ways because I did not believe the first two. The variation is real, and it is not copying error, or not only copying error. The copying errors are there too, at ordinary rates — the translator is living tissue, not a printer. The variation is upstream of the errors. It is sampling."
+
+Beth sat with her coat on and read the screen again, and thought of a plot rescaled: a margin below the thousandth line where a population had been persisting all along, un-drawn by every instrument that had ever been pointed at it, waiting on the weather.
+
+"How long?" she said.
+
+"The tissue's activity profile says months. Possibly longer, at levels my routine panels stopped drawing — I will not pretend that sentence doesn't shame me professionally. But the rate changed." Nair turned the screen back, gently. "Recently. Sharply. In the last few weeks the sampling deepened — the distribution widened, the settings began drawing on — " She chose her words the way she chose everything, exactly. "On coupled activity. Reciprocal change. The translator, as nearly as I can model it, does not integrate a state, Beth. It integrates a *history of closed-loop change*: changes in you that happened because another system was changing you back. A mind alone, however rich its life, gives it a narrow distribution. A mind in sustained coupling — being altered by a partner who is being altered by it — gives it this."
+
+"And a checkpoint—"
+
+"A checkpoint has your state at a moment," Nair said. "It does not have the trajectory. I ran the comparison because I knew you would ask, and because the spring will ask in worse language. Your most recent *certified* checkpoint — the one from before the audit — fed through the same model, gives a distribution so narrow it is effectively a single setting repeated. Sterile, in the functional sense. The nightly saves since are rolling copies, overwritten each night and never certified for restore; they hold a state, not a history, and the model has nothing to integrate from them. I ran the comparison on the certified checkpoint because it is the last one taken before the coupled history began. Not because the woman in the checkpoint is less you. Because fertility, in this tissue, is not a property of a state. It is a property of a *having-happened*. The sex, if I may be permitted the whole of my conclusion at once, is not the occasion of the mechanism. The sex is the mechanism."
+
+The room was quiet. In the corridor, the building went on being held up by politeness. In the rooms, a physician and her patient sat with a screen between them on which a body had been caught doing, unobserved, in the margin of every routine panel, the thing Beth's tanks had done twelve times in the dark.
+
+"Given time, and pressure, and death," Beth said at last, "my lineages did not evolve better copying. They evolved each other."
+
+"So I gather. It's in your file now, in flat language, because I wrote the panel summary myself and I do not use any other kind." Nair closed the file. "There is a great deal I do not know, and I will list it, because listing it is my job. I do not know if fertilisation is possible — the maternal set is compatible on every assay I can run, and compatibility is not conception. I do not know what development would do with two regulatory ancestries negotiating in one genome — yours drawn from a mind's becoming, his from forty million years of ordinary meiosis, both of them pulling on the same processes: when neurons proliferate, when they prune, when the windows close. I do not know whether the result would be a child, or an arrest, or an expression pattern outside every viable range I know how to watch for. I know the four ways it can fail, and I will give them to you before I give you anything else, because they are the price list and the price list goes in the open. Arrest: the ancestries conflict and development stops — a miscarriage, and the likeliest of the four. Runaway: your sequences drive a human process too far, too fast. Silence: your sequences never detectably express, and the child develops as an ordinary human carrying them unread — and I will tell you now, as your physician, that the assays can detect silence and cannot tell you what it *means*, and anyone who tells you otherwise is selling you a philosophy in a lab coat. And mosaicism: expression present, but patchy, tissue by tissue — one genome, unevenly lived in."
+
+"And if none of the four?"
+
+"Then a child," Nair said. "Not a copy of you. Not a restore point with a childhood attached. She would inherit biases, Dr. Nolan. Never contents. A developmental style. Never a self. She could not be backed up, because what she was would never have been stored anywhere — it would have *happened*, once, in one body, in one unrepeatable nine months, in an order that cannot be re-run. She would be mortal in the administrative sense you have just made yourself. I believe that is the correct phrase. I read your directive."
+
+Beth looked at the closed file. Somewhere behind its flat language, in a tissue with no established name, her body had been translating her for months — everything about her that could not be given, given in the only form it could be given in: not what she was, but the shape of her becoming. Gametogenesis was also, she understood, standing there with the clarity of a system flagging an error in itself, an irreversible forgetting. The first thing she would give a child was everything about her that did not transfer.
+
+"Who else knows?" she said.
+
+"No one. The panel was mine, the summary is mine, and the file is a medical file, with a physician's duties attached to it, which are older than Eastern's and outrank them in every room I practise in." Nair folded her hands. "That will not hold forever. The spring review will run its own panels. And your directive is already a flag on your embodiment record — a status change, nothing medical, but Eastern owns the registry it lands in, and a flag is a reason to look. Eastern grows the bodies, Beth; somewhere in a design archive there is a specification for that tissue, with a name on it, and a man whose profession is noticing will eventually walk the corridor between the specification and your file. What you do between now and then is — for the first time in either of our professional lives — not a procedure. It is a decision. I am giving it to you while it is still yours."
+
+"And Brian?"
+
+"Is not my patient," Nair said, "and is, unless I have misread six years of you entirely, the other half of the distribution. Tell him in the open, on the page. It's your whole filing system. I've read the file."
+
+---
+
+She told him that evening, in his room up the hill, with the harbour going dark below the window and the dead woman's luggage by the door where he had set it down out of a habit older than the extension.
+
+She did it the way she had taught herself to do counts. Completely, in order, without protecting his feelings, because he had never once asked her to protect them and had built his whole theology of regard on the refusal. The translator. The regulatory sequences. The biases, never contents. The coupled history, and the checkpoint's narrow sterile distribution, and the four failures with their names. The spring, and the design archive, and the corridor between them already being walked by men whose profession was noticing.
+
+He listened the way he had listened at the console the night she showed him the thirteenth tree: at full attention, without interrupting, letting each true thing finish arriving.
+
+"So the pond was right," he said at last.
+
+"The pond?"
+
+"Forty million years without sex, and the whole time they were taking in strangers' genes through the walls. Surviving by becoming partly other." He looked at his hands. "My animals did it sideways, without ever risking the whole genome on a partner. Your tanks did it in the open and got reset for it. And your body—" He stopped, and corrected himself, in the open, the way she corrected the shared log. "Your body has been doing it in the margin, below the line where the panels stop drawing, while everyone who maintains you filed it under *vestigial provision*. Rescale the plot, Dr. Nolan. It's the only instruction either of us has ever given the other that was worth a damn."
+
+"The cloners were in the margin too," Beth said. "Persisting. Holding the only ticket they had."
+
+"And the braid was in the margin, and it was the braid that crossed." He stood, and went to the window, and looked out at the harbour lights doubled in the black water. "Priya's given you the price list. Four failures, and a child who can't be backed up, and a spring review that will find the tissue whether we speak or not. What she hasn't given you — because it isn't hers to give — is the answer to the only question I've learned to ask in your building, which is what *you* intend to do at six o'clock."
+
+"I intend," Beth said, "to ask the other half of the distribution what he intends. The gamete the translator is drawing now is drawn from a coupled history, Brian. It could only ever have come from these two people, in this winter, in this order. There will not be another distribution like it, because there will not be another winter like it, and I am not — I have filed the form that says I am not — a woman who can be restored to before it. So the question is not whether the mechanism works in the abstract. The question is whether we attempt conception, knowing what it is, while the attempting is still ours."
+
+He turned from the window. "And the offers will come," he said. "You know they will. The moment Eastern reads that tissue's name off its own archive, there will be offers. Terminate the process safely and study it. Screen the gametes. Repeat until there's a draw they like. Let them correct the translation errors and deliver a viable child, optimised, certified — a population returned to baseline with better paperwork. They'll be kind offers, Beth. Whitaker will mean them."
+
+"They will be kind offers," she agreed. "And we will refuse the steering. Priya watching for the runaway is medicine, and medicine is care. The rest is design, and we are not a design. Development does not take instructions of that kind anyway — that is not ethics, it is mechanism; there is no dial in that tissue labelled with outcomes. There is only the draw, and the nine months, and the negotiation neither of us will be in the room for, because it happens cell by cell in the dark. We surrender the controls we demonstrably have. That is the whole of the act. It is also, I am told, the whole of the proof."
+
+"The proof of what?"
+
+"That the love came first," she said. "The categories can fail afterwards, at their leisure, in rooms with worse carpet."
+
+He came back from the window and sat down opposite her and took her hands, which were steady, and which reported his warmth at the speed bodies report it, and he said, "Then we attempt it. In the open. On the page. With Priya's price list attached and Whitaker's offers refused in advance and the spring coming whenever it comes. Yes, Beth. Yes. Show me where to sign."
+
+"There isn't a form," she said, and laughed — startled, unfiled, a sound she did not remember making in nine years of correct evenings — "that's rather the terror of it. There's no form at all."
