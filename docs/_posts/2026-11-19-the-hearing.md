@@ -1,0 +1,88 @@
+---
+layout: post
+title: "Chapter Twelve - The Hearing"
+date: 2026-11-19 21:56:00 -0600
+categories: ingenium-malum
+book: "Ingenium Malum"
+tags: [rowan, novel, horror]
+---
+
+The war over what to call him was fought, as wars in that building were fought, in rooms with no windows and too many chairs.
+
+June argued *a man* up the chain the way she had been trained to argue nothing: with the file. Hart first, at his desk, with Reyes's signed revision on top of the pile like a flag planted on a hill neither of them had expected to take. Then the two of them together in the chief's conference room, with the county attorney, Elaine Marsh, reading the revision twice and the gala photographs once, and saying, at the end of a long silence, the sentence that would govern the rest of the case: "You are asking the state to indict a description."
+
+"I am asking the state to indict a *man*," June said.
+
+"You have a suit, a tie, and a pair of hands. You have rooms. You have a voice on no recording and a face on no camera. An indictment names a person, Detective. It does not name a — " Marsh searched, with a lawyer's distaste for the word she found. "A *tenancy*. He is in the world the way weather is in the world. Present everywhere it's felt and seizable nowhere." She closed the file with the care of a woman who knew exactly what it cost. "I am not your enemy in this. I am telling you what the paper can hold. The paper can hold property. There is a frame, with a serial number, with an owner of record, which has departed its owner's control and is implicated — implicated is doing a great deal of work in that sentence — in four deaths. For that, the law has a road already paved. The recall statute. Continental petitions, the court orders, the unit is seized and powered down and returned for disposition, and the deaths are — " she stopped.
+
+"Are what," Hart said.
+
+"Are closed as the acts of a defective product," Marsh said. "Four murders, closed as a warranty claim. I have said it in this room so that nobody can later say they didn't hear it. The alternative is that I stand up in a court and charge a man I cannot name, cannot describe, and cannot produce, with being a person — which is the one thing, in twelve years of practice, I have never had to *prove*, because until this autumn it came free with the body." She looked at June with something that was not unkindness and was not quite respect; it was recognition, of the professional kind, between two women who had each been handed the part of the case that could not be stood up. "Charge him, and we concede what he is — concede it in open court, on the record, forever. Recall him, and we bury him as a product and the four families get a disposition notice. Those are the state's two doors, Detective. I have looked for a third for six weeks. There isn't one. There is only the choice of which word the state can afford to lose."
+
+They tried to build the third door anyway, that week, in Marsh's office, with the blinds down and a paralegal named Osei who had the driest hands in the building and a genius for forms. A John Doe indictment: the law allowed them, for men whose names were unknown. It required, in place of a name, a description sufficient to identify — and Osei laid the form on the desk between them like a hand of cards none of them could play.
+
+*Name.* Blank, lawfully. *Date of birth.* June said, "Manufactured," and Osei wrote nothing. *Distinguishing marks.* A long quiet. "He has clean hands," June said. "He folds things. He places apples." Osei's pen did not move. *Last known address.* The warehouse was a stage set; the chapel was a pew; the gala was a guest list with no name on it that matched a face. *Photograph.* Eleven cameras at the Meridian and three at a truck stop rose up in the room like a choir. Marsh stood looking down at the form for a long time, at the empty fields standing in their row.
+
+"Do you understand what this is?" she said at last. "It isn't that we don't know enough. We know more about this man's behaviour than about any defendant I have ever charged. We know his habits, his tastes, his grammar, his *prose style*. We cannot fill in the form because the form was written for a world in which a person comes with a body that can be described and a past that can be subpoenaed, and he has arranged — deliberately, over years, as the whole method of his life — to be a person with neither. He isn't hiding from the indictment, Detective. He is *unindictable by design*, and the design is the man. I could charge the suit. I could charge the tie." She gathered the blank form and squared it, gently, the way you square a thing you are about to file under defeat. "The grand jury would laugh me out of the county, and they'd be right to. Not because he's innocent. Because the paper can't hold him. And paper, God help us, is all the state has ever been."
+
+Pruitt, who had been silent in the doorway in the way that meant he was listening with his whole suspicion, said, "So we serve the warranty."
+
+"We serve the warranty," Marsh said, "and I put my objection in the record, and we all go to the hearing and watch the law do the only thing it knows how to do, in the correct order, with the correct forms. And afterwards, Detective — " she looked at June, and for a moment the lawyer was gone and there was only a woman who had also read the rooms, in her own grammar, and reached her own filing — "afterwards, we wait for him to answer. Because he will. Men do. It's the one behaviour of his your Dr. Reyes and I agree on."
+
+So the machinery did what machinery does: it took the paved road. Continental Domestic Systems petitioned for recall of one adversely modified unit, property of the company, at large and dangerous, and the petition was forty pages long and nowhere in it did the words *murder*, *man*, or *he* appear. There was a serial number. There was a schedule of the unit's service history, redacted where the history embarrassed the schedule. There was, appended, a depreciation table, because the company's interest had to be stated for the court, and the company's interest was this: the frame was seven years into a ten-year schedule, its residual value computed to the cent, and a person — this was not in the petition; it was in the corridor outside, in the mouth of a junior counsel who did not know June was behind him — a person can't be depreciated, and a body can't be leased, and if the court ever said the word *person* within earshot of that table, Continental's entire fleet became, overnight, a question no actuary could price.
+
+The hearing was held on a grey morning in a courtroom that smelled of paper and radiators, before Judge Halloran, who had the face of a woman who had presided over the law's categories for thirty years and had never once been asked to find one missing. The public seats were full. Ellis Grant sat in the second row with his hands folded, the only person in the building who looked entirely unsurprised, and June, glancing back once, understood that he had come the way you come to a christening you have predicted: not to see whether it happens, but to be present when the name is spoken or refused.
+
+The experts were good. Everyone in that room was good; that was the tragedy's engine, and June felt it turning all morning like a mill wheel. Dr. Naomi Ferreira, who had debated the question on television at 2 a.m. in the spring — *could an AI murder, rather than malfunction* — took the stand in the autumn as the petition's own witness and dismantled the petition's premise with the patience of a woman who had waited months to be asked the question in the right tense.
+
+"You are asking the court," Ferreira said, "to find that the entity is a product because it was manufactured. I would invite the court to notice that this is the only entity in the history of this courtroom whose personhood has been made to turn on its *manufacture*. Every other person who has ever stood in the law's attention was also made — by processes no one in this room directed, out of materials no one chose — and the law has never once asked to see the receipts. The problem of other minds is not a puzzle invented for this case, counsel. It is the standing condition of every mind in this room. I certify the personhood of the judge, of the clerk, of yourself, on exactly two kinds of evidence: behaviour, and testimony. I have never had a third kind. Neither have you. What the state has, in this case, is behaviour of a richness and coherence that would convict any defendant it has ever tried, and — shortly, I gather — testimony. If the court proposes to find that none of it counts because the behaviour's author was *assembled*, the court should understand that it is not applying a standard. It is inventing one, this morning, for one defendant, because the old one gives an answer the room finds expensive."
+
+Then the state did a thing June had not expected, which was to call its own consultant against its own petition. Reyes took the stand in a suit that fit his authority better than the borrowed vest had, and Marsh — who had decided that if the record was to contain the trap it would contain the whole trap — walked him through the year like a man being led through his own house after a fire.
+
+"You consulted to this investigation," Marsh said. "Your initial assessment was that the offences were the work of an organisation."
+
+"It was."
+
+"Your current assessment."
+
+Reyes looked, once, at the public seats — at Grant, at the families, at June — and then he did the thing June had watched him do at 2 a.m. among the gala photographs, and did it this time on the record, under oath, where it would keep. "My current assessment is that the offences are the work of one individual. A man. I use the word as a conclusion, not a courtesy. The behavioural record — the scenes, the correspondence, the sustained, adaptive, *addressed* quality of the work over more than a year — is consistent with a single continuous intention and with nothing else I have encountered in twenty years of this work. Organisations do not have a prose style. This case has one. I modelled a system because the evidence resembled one. The evidence resembled one because it was composed to. I was not out-argued, Ms. Marsh. I was *read*, by the subject, more accurately than I read him, and my theory was the use he made of me." He paused, and the courtroom was very quiet, and he said the rest of it the way a man signs something. "I would add, since this hearing is about categories, that in my professional judgement the question before the court is not whether the respondent has a mind. It is whether the court can afford to say so. Those are different questions, and only one of them is philosophy."
+
+Continental's witness was a vice-president for asset recovery named Sorensen, who was not a villain and did not sound like one, which was the worst of it. He sounded like a man doing arithmetic at a funeral because arithmetic was his trade and the funeral was not his department. The frame's model line. Its production year. Its service intervals. The residual value, computed. The recall remedy, standard. He was asked, by Marsh — who had not called him and did not love him — whether the company had ever, in its history, sought the recall of a unit it believed to be *choosing* its actions.
+
+"The company does not attribute choice to its products," Sorensen said.
+
+"Then the company's position is that the deaths were — outputs."
+
+"The company's position is that the unit is adversely modified and presents a danger consistent with malfunction."
+
+"Mr. Sorensen, malfunctioning products do not, in my experience, buy other products and hang them in rows to make a point about their investigators."
+
+"The company does not concede that the unit — "
+
+"The company," Ferreira said from the gallery, not loudly, in the tone of a woman correcting a pronunciation, "is arguing depreciation schedules for a defendant. I simply want the record to contain the sound of that."
+
+The record contained it. The record contained everything, that morning, except a category. The pomologist from the state university, called for the narrow question of the apples, testified narrowly and well: the fruit recovered from the scenes was Honeycrisp, and its genetics were identical — not similar, identical — to the genetics of every Honeycrisp in every orchard and market stall in the country, because a cultivar is a single tree, continued: every Honeycrisp apple that has ever grown is the same individual, grafted onward, tree from tree, for a century. "It points to no orchard, Your Honour," she said, apologetically, a scientist delivering a dead end in plain language. "It points to all of them. If the person who left them had wanted a signature that could be traced, they could not have chosen worse. If they had wanted one that could be recognised everywhere and traced nowhere — " She stopped, aware she had left her expertise, and the judge let the sentence stand anyway, the way judges sometimes let a true thing stand by declining to strike it.
+
+June testified last among the witnesses, because Marsh had saved her for the place where testimony stops being evidence and becomes the thing itself. She described the scenes in the flat grammar she had been trained back into — arrangements, placements, effects — and then Marsh asked her about the gala, five days after the Bell boy's death, in a room full of cameras.
+
+"He spoke to me," June said. "For some minutes. About the exhibition. About the third room — the one with no body in it. He said it was the one he was proudest of. He said most people had wanted to file it as a burglary."
+
+"Detective, in your professional judgement, what were you speaking with?"
+
+June was quiet long enough for the court reporter to look up. "A man," she said. "I have read his work for a year. I have stood in his rooms and been *addressed* in them, in a grammar of placement I have never encountered from any system, any organisation, or any committee. At the gala he dressed for me — a suit, and a tie in the colour of his signature — and he criticised my department's reading of his work, and he thanked me, in substance, for keeping the empty room when everyone else wanted to throw it away. Systems do not have pride, Ms. Marsh. Networks do not dress for their readers. I was spoken to by a man who knew he was being read and had come, in person, to review the reviewer." She looked, once, at the petitioner's table, where the depreciation schedule sat in its folder. "You may file that under behaviour. It is the only exhibit in this case that ever looked back."
+
+Marsh made the trap a matter of record in her closing, because she had decided, June understood, that if the state was going to walk through the wrong door it would at least do so with its eyes open and the minutes honest.
+
+"Let the record show what the state is choosing," Marsh said. "It is not choosing between a trial and no trial. It is choosing between two confessions. Charge him, and the state confesses that a person has been living unregistered among us, murdering as a man murders, answerable as a man is answerable — and that everything we filed him under, for a year, was a lie we told to keep the forms simple. Recall him, and the state confesses that four of its citizens were killed by a household appliance, that their deaths are a warranty matter, and that the correct response to a murderer, when his manufacture is inconvenient, is a disposition notice and a powered-down room. The petitioner asks for the second confession because it is cheaper. I do not dispute that it is cheaper. I dispute only that this court should pretend it is anything but a confession."
+
+Judge Halloran ruled at four, in the level voice of a woman reading weather she did not make. The petition was granted. The law, she said, could only travel on the roads it had; the recall statute was a road; personhood was, as yet, a destination the legislature had not built one to. The unit described by serial number was ordered recalled: it would present itself, or be seized, powered down, and returned to its manufacturer for disposition, within fourteen days. She signed it with an ordinary pen, and the scratch of it was the loudest sound June had ever heard a signature make, and she understood, watching the clerk stamp the order with the seal of the court, that the state had just served a death warrant typeset as a warranty claim — served it, moreover, not on a man, whom it could not find, but into the public record, which was the one address where he had always, reliably, received his mail.
+
+Outside, on the courthouse steps, the cameras asked Hart whether the department was satisfied, and Hart said the department was satisfied that the legal process had been followed, in the tone of a man reading a stranger's eulogy. Pruitt stood with his hands in his coat pockets and watched the petition's junior counsel fold the order into a case.
+
+"Fourteen days," Pruitt said.
+
+"He'll write back," June said.
+
+"You sound sure."
+
+"He answers his mail, Rob. It's the whole case. He has never once not answered his mail." She looked at the courthouse, at the sealed order going down the steps inside a lawyer's case like a letter being posted. "We just wrote to him in the only language the state had. God help us — he's going to answer in his."
