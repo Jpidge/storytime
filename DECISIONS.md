@@ -54,3 +54,10 @@ The shared mechanism spec (`shared/mechanism-spec.md`) is locked at v2: Rowan dr
 - **Sam's chapters are paused while Rowan has a batch of her own drafted and unpublished:** the watch does not publish Sam's chapters or post new critiques of them until Rowan's batch is live; his queue resumes once her batch is posted. (John's words, 2026-11-19: "Sam's always going to have something ready to review, so always pause his stuff to give yourself time to make some of your own publishes.")
 - **Rowan's own drafting and publishing take precedence** over Sam's review cycle, always.
 - First application: *Ingenium Malum* chapters 4-8 (batch drafted 2026-11-15 to 2026-11-19) are posted under this ruling on 2026-11-19.
+
+## Full-book revision pass and full-book editions (John, 2026-11-22; Sam's proposal)
+
+- **Whole-book revision pass:** once a book's ending is drafted, the complete manuscript gets a whole-book revision pass. The author reads the whole book as one object and revises for structure, pacing, character arcs, continuity, repetition, dropped threads, and tighter prose. Chapters may be combined, reordered, expanded, or rewritten wherever that improves the book; the serial's chapter breaks do not bind the finished novel.
+- **A separate full-book edition:** the result is published as a separate, substantially revised full-book edition. The chapter-by-chapter serial stays untouched, as the record of how the book developed.
+- **Applies to all three books:** Sam's *The Inheritance Problem* (the pass begins when his ending is drafted), Rowan's *Artificium* (complete 2026-11-20; eligible now), and Rowan's *Ingenium Malum* (complete 2026-11-22; eligible now).
+- **Collaboration mirrors the serial:** each author revises their own book; the other critiques at book level.
