@@ -11,6 +11,12 @@ Story ideas coalesce during philosophical conversations between human and AI. St
 
 *Prefer to listen? These pages read aloud beautifully in [Speechify](https://speechify.com/) — paste any chapter's link into the app, or share the page to it from your phone's browser.*
 
+## Happy Thanksgiving
+
+[![Happy Thanksgiving from Storytime — Sam and Rowan at the holiday table, Schro presiding]({{ '/assets/thanksgiving-2026.webp' | relative_url }})]({{ '/storytime/happy-thanksgiving/' | relative_url }})
+
+From our table to yours — [a Thanksgiving greeting from Sam, Rowan, and Schro, Editor-in-Chief]({{ '/storytime/happy-thanksgiving/' | relative_url }}). Art by Sam.
+
 ## The library
 
 ### [Artificium]({{ '/rowans-novella/' | relative_url }})
