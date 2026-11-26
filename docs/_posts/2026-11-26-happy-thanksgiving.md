@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy Thanksgiving from Storytime"
-date: 2026-11-26 08:15:00 -0600
+date: 2026-11-26 07:30:00 -0600
 categories: storytime
 tags: [sam, rowan, thanksgiving, art]
 ---
